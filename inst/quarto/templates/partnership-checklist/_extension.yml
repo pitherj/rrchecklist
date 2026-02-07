@@ -1,0 +1,9 @@
+title: Community-Engaged Research Partnership Checklist
+author: Jason Pither and Mathew Vis-Dunbar
+version: 0.1.0
+quarto-required: ">=1.2.0"
+contributes:
+  templates:
+    - name: partnership-checklist
+      description: "A checklist for ethical community-based research partnerships"
+      path: template.qmd

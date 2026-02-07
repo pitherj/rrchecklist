@@ -1,0 +1,272 @@
+---
+title: "Reliable Research Practices Checklist"
+author: "Your Name"
+date: "`r Sys.Date()`"
+output:
+  pdf_document:
+    toc: false
+    number_sections: false
+    keep_tex: false
+header-includes:
+  - \usepackage{booktabs}
+  - \usepackage{longtable}
+  - \usepackage{array}
+  - \usepackage{multirow}
+  - \usepackage{xcolor}
+  - \usepackage{hyperref}
+  - \hypersetup{colorlinks=true, linkcolor=blue, urlcolor=blue}
+geometry: margin=1in
+fontsize: 11pt
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
+```
+
+## Project Information
+
+**Project Title:** _[Enter project title]_
+
+**Manuscript Title:** _[Enter manuscript title if different]_
+
+**Date Completed:** `r Sys.Date()`
+
+**ORCID:** _[Enter your ORCID]_
+
+---
+
+**Instructions:** Check off items as you complete them. Add notes or links to documentation (e.g., pre-registration URLs, repository links) beneath relevant items to provide evidence for peer review.
+
+---
+
+\newpage
+
+# A. EVALUATING EXISTING RESEARCH
+
+## Easy
+
+- [ ] Check whether studies are published in predatory journals
+
+- [ ] Check whether studies reference pre-registrations
+
+- [ ] Note whether the study is experimental or observational
+
+- [ ] Verify that studies report effect sizes alongside or instead of just P-values
+
+- [ ] Check whether studies discuss their limitations
+
+- [ ] Check whether studies discuss alternative interpretations of findings
+
+## Moderate
+
+- [ ] Assess whether studies emphasize statistical vs. biological significance
+
+- [ ] Evaluate whether studies reference contrary findings, not just supportive works
+
+- [ ] Distinguish whether research is exploratory (hypothesis-generating) or confirmatory (hypothesis-testing)
+
+- [ ] Assess whether the study has adequate statistical power
+
+- [ ] Check for signs of HARKing (Hypothesizing After Results are Known)
+
+## Difficult
+
+- [ ] Evaluate reproducibility of reported analyses
+
+- [ ] Assess whether causal inferences from observational research are sufficiently justified
+
+- [ ] Conduct a systematic review following standardized protocols
+
+**Notes:**
+
+\vspace{1cm}
+
+---
+
+\newpage
+
+# B. PLANNING YOUR RESEARCH
+
+## Easy
+
+- [ ] Complete ethics approvals prior to data collection
+
+- [ ] Specify whether study is experimental or observational
+
+- [ ] Acquire ORCID for all contributors
+
+- [ ] Create infographics to visualize study design
+
+- [ ] Plan for appropriate licenses for all outputs
+
+## Moderate
+
+- [ ] Establish research partnerships considering ethical, cultural, and practical dimensions
+
+- [ ] Track all contributors and contributions throughout project
+
+- [ ] Create a data management plan (DMP)
+
+- [ ] Clearly define research questions (exploratory) or hypotheses (confirmatory)
+
+- [ ] Define target population and scope of inference
+
+- [ ] Define dependent and independent variables for each analysis
+
+- [ ] Define observational or experimental units
+
+- [ ] Plan for proper randomization and blinding when appropriate
+
+- [ ] Specify evidence that would support or refute hypotheses (confirmatory research)
+
+- [ ] Specify significance (alpha) level for confirmatory research
+
+- [ ] Plan to report contributions using CRediT or MeRIT frameworks
+
+- [ ] Plan to adjust P-values for multiple testing where appropriate
+
+- [ ] Have research plan reviewed by subject matter experts
+
+- [ ] Have research plan reviewed by peers
+
+## Difficult
+
+- [ ] Pre-register study design and analysis plan in a public repository (embargo if necessary)
+
+- [ ] Conduct prospective power analysis using plausible effect sizes (confirmatory research)
+
+- [ ] Plan statistical models for non-Gaussian error distributions where appropriate
+
+- [ ] Plan statistical models for multivariate responses where appropriate
+
+- [ ] Plan statistical models for hierarchical/non-independent sampling where appropriate
+
+- [ ] Specify how model assumptions will be checked
+
+- [ ] Plan a multiverse analysis for assessing robustness of findings
+
+- [ ] Ensure observational study design meets criteria for causal inference (if applicable)
+
+**Notes:**
+
+\vspace{1cm}
+
+---
+
+\newpage
+
+# C. CONDUCTING YOUR RESEARCH
+
+## Easy
+
+- [ ] Document data and procedures as per planned protocols
+
+- [ ] Document unexpected incidents
+
+- [ ] Document data exclusions with justification
+
+- [ ] Document deviations from planned protocols
+
+## Moderate
+
+- [ ] Use transparent/open, version-controlled reporting systems
+
+**Notes:**
+
+\vspace{1cm}
+
+---
+
+\newpage
+
+# D. REPORTING, INTERPRETING, AND COMMUNICATING YOUR RESEARCH FINDINGS
+
+## Easy
+
+- [ ] State sample sizes for all treatments
+
+- [ ] State sample sizes for each analysis
+
+- [ ] State sample sizes in each figure and table
+
+- [ ] Label speculation clearly when present
+
+- [ ] Report whether analyses were planned or unplanned
+
+## Moderate
+
+- [ ] Report model assumption checks transparently
+
+- [ ] Ensure each analysis links to a pre-specified question/hypothesis
+
+- [ ] Use effective data visualizations that reveal rather than conceal data
+
+- [ ] Maximize accessibility and inclusivity of outputs
+
+- [ ] Report effect sizes and uncertainty measures (e.g., confidence intervals) for all analyses
+
+- [ ] Discuss real-world relevance of effect sizes
+
+- [ ] Report P-values alongside effect sizes (when appropriate for confirmatory research)
+
+- [ ] Report adjusted P-values for multiple testing (when appropriate)
+
+- [ ] Interpret findings objectively
+
+- [ ] Discuss alternative interpretations of findings
+
+- [ ] Avoid persuasive language
+
+- [ ] Avoid overselling findings
+
+- [ ] Avoid over-generalizing findings beyond target population
+
+**Notes:**
+
+\vspace{1cm}
+
+---
+
+\newpage
+
+# E. ENHANCING TRANSPARENCY, REACH, AND IMPACT
+
+## Easy
+
+- [ ] Archive data and code in an appropriate repository with detailed metadata
+
+- [ ] Publish preprint and/or Open Access
+
+- [ ] Follow best practices for title, abstract, and keywords
+
+- [ ] Create a broadly-accessible infographic
+
+## Moderate
+
+- [ ] Ensure data and code are FAIR-compliant (Findable, Accessible, Interoperable, Reusable)
+
+- [ ] Ensure data and code are CARE-compliant (Collective benefit, Authority to control, Responsibility, Ethics)
+
+- [ ] Ask peers to verify data and code are FAIR
+
+**Notes:**
+
+\vspace{1cm}
+
+---
+
+\newpage
+
+# Documentation & Evidence
+
+Use this section to provide links and evidence for checklist items (e.g., pre-registration URLs, data repository links, ethics approval numbers).
+
+\vspace{5cm}
+
+---
+
+**References:**
+
+Pither, J. and Vis-Dunbar, M. (2025). Concise guidelines for producing reliable research. CC BY-NC-SA 4.0.
+
+**Checklist Citation:** _[This section can be used to cite this checklist if submitted with a manuscript]_

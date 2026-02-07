@@ -1,0 +1,160 @@
+---
+title: "Community-Engaged Research Partnership Checklist"
+author: "Your Name"
+date: today
+format:
+  html:
+    toc: true
+    toc-location: left
+    theme: flatly
+    number-sections: false
+  pdf:
+    toc: false
+    number-sections: false
+    geometry: margin=1in
+    fontsize: 11pt
+---
+
+## Project Information
+
+**Project Title:** _[Enter project title]_
+
+**Partner Organization(s):** _[Enter partner names]_
+
+**Date Completed:** `{r} Sys.Date()`
+
+**Lead Researcher ORCID:** _[Enter your ORCID]_
+
+---
+
+**Instructions:** Use this checklist throughout your community-engaged research partnership. Check off items as you complete them. Document agreements, communications, and decisions to maintain transparency with partners.
+
+---
+
+# Partnership and Co-Design
+
+- [ ] Those potentially impacted by the research had meaningful opportunity to contribute to study design
+
+- [ ] Research partnerships were established from the outset, before study design was finalized
+
+- [ ] Partners had opportunity to shape research questions and hypotheses
+
+- [ ] Partners had input on methodology and data collection approaches
+
+- [ ] Partners had opportunity to review and provide feedback on research plan
+
+- [ ] Partnership agreements clearly articulate roles, responsibilities, and expectations
+
+- [ ] Partnership agreements address intellectual property and data ownership
+
+- [ ] Compensation or reciprocity for partner time and expertise has been discussed and agreed upon
+
+**Notes:**
+
+<br><br>
+
+---
+
+# Ethics and Cultural Considerations
+
+- [ ] Research follows CARE principles (Collective benefit, Authority to control, Responsibility, Ethics)
+
+- [ ] Cultural protocols and practices relevant to the research have been identified and will be followed
+
+- [ ] Research has received approval from relevant community governance bodies (if applicable)
+
+- [ ] Informed consent processes are culturally appropriate and accessible
+
+- [ ] Research respects community data sovereignty
+
+- [ ] Potential risks and benefits to the community have been explicitly discussed with partners
+
+**Notes:**
+
+<br><br>
+
+---
+
+# Implementation and Conduct
+
+- [ ] Partners are involved in data collection and/or analysis (where appropriate and desired)
+
+- [ ] Communication protocols with partners are established and maintained throughout the study
+
+- [ ] Partners have access to all findings and opportunity to provide input on interpretation
+
+- [ ] Unexpected incidents or deviations from protocols are communicated to partners in a timely manner
+
+**Notes:**
+
+<br><br>
+
+---
+
+# Reporting and Dissemination
+
+- [ ] Partners have reviewed and provided feedback on interpretation of findings
+
+- [ ] Partners have reviewed draft manuscripts or reports before submission
+
+- [ ] Authorship or acknowledgment reflects partners' contributions using CRediT or MeRIT frameworks
+
+- [ ] Research outputs are accessible and useful to the community (not just academic audiences)
+
+- [ ] Dissemination plan includes formats and venues that reach community partners and stakeholders
+
+- [ ] Partners have authority over how findings related to their community are shared publicly
+
+- [ ] Research outputs follow CARE principles for data and information sharing
+
+**Notes:**
+
+<br><br>
+
+---
+
+# Long-Term Considerations
+
+- [ ] Plan exists for sharing data and materials with partners according to agreed-upon terms
+
+- [ ] Plan exists for ongoing communication after research completion
+
+- [ ] Potential for research to benefit the community has been articulated and pursued
+
+- [ ] Partners have been consulted about potential future uses of data or materials
+
+**Notes:**
+
+<br><br>
+
+---
+
+# Partnership Documentation
+
+Use this section to document key partnership agreements, communication logs, and evidence of partner involvement.
+
+**Partnership Agreement Summary:**
+
+<br><br>
+
+**Key Partner Contacts:**
+
+<br><br>
+
+**Communication Log:**
+
+<br><br>
+
+**Data Sovereignty and Ownership Agreements:**
+
+<br><br>
+
+---
+
+**References:**
+
+Pither, J. and Vis-Dunbar, M. (2025). Concise guidelines for producing reliable research. CC BY-NC-SA 4.0.
+
+CARE Principles: [https://www.gida-global.org/care](https://www.gida-global.org/care)
+
+**Checklist Citation:** _[This section can be used to cite this checklist if submitted with a manuscript]_
