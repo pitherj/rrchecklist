@@ -48,18 +48,23 @@ install.packages("path/to/rrchecklist", repos = NULL, type = "source")
 
 # Or using devtools
 devtools::install_local("path/to/rrchecklist")
+
+# IMPORTANT: Restart R/RStudio after installation for templates to appear
 ```
 
-### From GitHub (once uploaded)
+### From GitHub
 
 ```r
-# If you upload to GitHub
-devtools::install_github("yourusername/rrchecklist")
+# Install from GitHub
+# install.packages("devtools")  # if not already installed
+devtools::install_github("pitherj/rrchecklist")
+
+# IMPORTANT: Restart R/RStudio after installation for templates to appear
 ```
 
 ## Usage
 
-After installation, create a new checklist document in RStudio:
+After installation (and restarting R/RStudio), create a new checklist document in RStudio:
 
 1. `File > New File > R Markdown...`
 2. Click `From Template`
@@ -103,7 +108,7 @@ The package also provides Quarto versions of all templates. Quarto is a modern, 
 
 ```r
 # 1. Find the template file path
-template_path <- system.file("quarto/templates/rr-checklist/template.qmd",
+template_path <- system.file("quarto/templates/reliable-research-checklist/template.qmd",
                              package = "rrchecklist")
 
 # 2. Open the template in RStudio
@@ -118,11 +123,11 @@ file.edit(template_path)
 **Alternative templates:**
 ```r
 # Evaluating primary research
-system.file("quarto/templates/evaluating-primary-research/template.qmd",
+system.file("quarto/templates/evaluating-primary-research-checklist/template.qmd",
             package = "rrchecklist")
 
 # Partnership checklist
-system.file("quarto/templates/partnership-checklist/template.qmd",
+system.file("quarto/templates/research-partnership-checklist/template.qmd",
             package = "rrchecklist")
 ```
 
@@ -144,9 +149,9 @@ View detailed information about each template:
 library(rrchecklist)
 
 # View help for each template
-?evaluating_primary_research
-?rr_checklist
-?partnership_checklist
+?evaluating-primary-research-checklist
+?reliable-research-checklist
+?research-partnership-checklist
 ```
 
 ### Adding Documentation

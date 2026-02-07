@@ -1,5 +1,5 @@
-\name{evaluating_primary_research}
-\alias{evaluating_primary_research}
+\name{evaluating-primary-research-checklist}
+\alias{evaluating-primary-research-checklist}
 \title{Evaluating Primary Research Checklist Template}
 \description{
 An R Markdown template for systematically evaluating primary research publications. This checklist helps researchers, reviewers, and students critically assess the quality, transparency, and reliability of published research.
@@ -41,7 +41,7 @@ The template supports two output formats:
 
 # Or programmatically:
 rmarkdown::draft("my_evaluation.Rmd",
-                 template = "evaluating_primary_research",
+                 template = "evaluating-primary-research-checklist",
                  package = "rrchecklist")
 }
 }
@@ -49,5 +49,5 @@ rmarkdown::draft("my_evaluation.Rmd",
 Pither, J. and Vis-Dunbar, M. (2025). Concise guidelines for producing reliable research. CC BY-NC-SA 4.0.
 }
 \seealso{
-\code{\link{rr_checklist}}, \code{\link{partnership_checklist}}
+\code{\link{reliable-research-checklist}}, \code{\link{research-partnership-checklist}}
 }

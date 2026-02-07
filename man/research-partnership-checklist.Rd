@@ -1,5 +1,5 @@
-\name{partnership_checklist}
-\alias{partnership_checklist}
+\name{research-partnership-checklist}
+\alias{research-partnership-checklist}
 \title{Community-Engaged Research Partnership Checklist Template}
 \description{
 An R Markdown template for documenting and maintaining ethical, respectful research partnerships with community organizations and stakeholders. This checklist emphasizes CARE principles (Collective benefit, Authority to control, Responsibility, Ethics) and meaningful partnership throughout the research process.
@@ -45,7 +45,7 @@ The template supports two output formats:
 
 # Or programmatically:
 rmarkdown::draft("partnership_doc.Rmd",
-                 template = "partnership_checklist",
+                 template = "research-partnership-checklist",
                  package = "rrchecklist")
 }
 }
@@ -55,5 +55,5 @@ Pither, J. and Vis-Dunbar, M. (2025). Concise guidelines for producing reliable 
 CARE Principles for Indigenous Data Governance. Global Indigenous Data Alliance. \url{https://www.gida-global.org/care}
 }
 \seealso{
-\code{\link{rr_checklist}}, \code{\link{evaluating_primary_research}}
+\code{\link{reliable-research-checklist}}, \code{\link{evaluating-primary-research-checklist}}
 }

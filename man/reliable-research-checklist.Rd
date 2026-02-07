@@ -1,5 +1,5 @@
-\name{rr_checklist}
-\alias{rr_checklist}
+\name{reliable-research-checklist}
+\alias{reliable-research-checklist}
 \title{Reliable Research Practices Checklist Template}
 \description{
 An R Markdown template for documenting adherence to reliable research practices throughout a research project. This comprehensive checklist covers all stages from planning through dissemination and can be submitted as supplementary material with manuscripts.
@@ -41,8 +41,8 @@ The template supports two output formats:
 # File > New File > R Markdown... > From Template > "Reliable Research Practices"
 
 # Or programmatically:
-rmarkdown::draft("my_rr_checklist.Rmd",
-                 template = "rr_checklist",
+rmarkdown::draft("my_reliable-research-checklist.Rmd",
+                 template = "reliable-research-checklist",
                  package = "rrchecklist")
 }
 }
@@ -50,5 +50,5 @@ rmarkdown::draft("my_rr_checklist.Rmd",
 Pither, J. and Vis-Dunbar, M. (2025). Concise guidelines for producing reliable research. CC BY-NC-SA 4.0.
 }
 \seealso{
-\code{\link{evaluating_primary_research}}, \code{\link{partnership_checklist}}
+\code{\link{evaluating-primary-research-checklist}}, \code{\link{research-partnership-checklist}}
 }

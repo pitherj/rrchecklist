@@ -19,9 +19,11 @@ install.packages("devtools")
 devtools::install_local("path/to/rrchecklist")
 ```
 
+**IMPORTANT:** After installation, restart R/RStudio for templates to appear in the menu. In RStudio: Session > Restart R
+
 ## Creating Your First Checklist
 
-After installation:
+After installation and restarting R/RStudio:
 
 1. **In RStudio:**
    - Go to `File > New File > R Markdown...`
@@ -68,9 +70,9 @@ After installation, view detailed information about each template:
 library(rrchecklist)
 
 # View help for specific templates
-?evaluating_primary_research
-?rr_checklist
-?partnership_checklist
+?evaluating-primary-research-checklist
+?reliable-research-checklist
+?research-partnership-checklist
 
 # View package overview
 ?rrchecklist
@@ -94,7 +96,7 @@ The package includes Quarto versions of all three templates. Quarto is a modern 
    ```r
    # In R/RStudio console
    template_path <- system.file(
-     "quarto/templates/rr-checklist/template.qmd",
+     "quarto/templates/reliable-research-checklist/template.qmd",
      package = "rrchecklist"
    )
 
@@ -124,11 +126,11 @@ The package includes Quarto versions of all three templates. Quarto is a modern 
 
 ```r
 # Evaluating primary research
-system.file("quarto/templates/evaluating-primary-research/template.qmd",
+system.file("quarto/templates/evaluating-primary-research-checklist/template.qmd",
             package = "rrchecklist")
 
 # Partnership checklist
-system.file("quarto/templates/partnership-checklist/template.qmd",
+system.file("quarto/templates/research-partnership-checklist/template.qmd",
             package = "rrchecklist")
 ```
 
@@ -141,7 +143,7 @@ For users comfortable with the terminal:
 cd /path/to/your/project
 
 # Copy template from R package installation
-cp $(Rscript -e "cat(system.file('quarto/templates/rr-checklist/template.qmd', package='rrchecklist'))") ./my_checklist.qmd
+cp $(Rscript -e "cat(system.file('quarto/templates/reliable-research-checklist/template.qmd', package='rrchecklist'))") ./my_checklist.qmd
 
 # Render
 quarto render my_checklist.qmd              # HTML
@@ -160,9 +162,10 @@ quarto preview my_checklist.qmd             # Live preview
 - Or install a full LaTeX distribution for your OS
 
 **Templates don't appear in RStudio**
-- Restart RStudio
+- **Most common cause:** You need to restart R/RStudio after installation (Session > Restart R)
 - Check installation was successful: `library(rrchecklist)`
 - Verify templates exist: `rmarkdown:::enumerate_templates(package = "rrchecklist")`
+- Should show exactly 3 templates: evaluating-primary-research-checklist, reliable-research-checklist, research-partnership-checklist
 
 **HTML output looks plain**
 - Ensure you're knitting to html_document (not pdf_document)

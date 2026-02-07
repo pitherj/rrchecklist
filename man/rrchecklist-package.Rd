@@ -11,15 +11,15 @@ Provides three R Markdown templates for reliable research practices: evaluating 
 \details{
 The rrchecklist package includes three comprehensive checklists as R Markdown templates:
 
-\strong{1. Evaluating Primary Research} (\code{\link{evaluating_primary_research}})
+\strong{1. Evaluating Primary Research} (\code{\link{evaluating-primary-research-checklist}})
 
 A checklist for critically evaluating published research covering study design, reporting transparency, interpretation, and warning signs of problematic practices. Useful for peer review, literature reviews, and teaching.
 
-\strong{2. Reliable Research Practices} (\code{\link{rr_checklist}})
+\strong{2. Reliable Research Practices} (\code{\link{reliable-research-checklist}})
 
 A comprehensive checklist for conducting research following best practices. Covers all stages from planning through dissemination. Complete throughout your project and submit with manuscripts to demonstrate research transparency.
 
-\strong{3. Community-Engaged Research Partnerships} (\code{\link{partnership_checklist}})
+\strong{3. Community-Engaged Research Partnerships} (\code{\link{research-partnership-checklist}})
 
 A checklist for ethical community-based research following CARE principles (Collective benefit, Authority to control, Responsibility, Ethics). Addresses partnership formation, cultural considerations, and long-term collaboration.
 
@@ -54,7 +54,7 @@ Pither, J. and Vis-Dunbar, M. (2025). Concise guidelines for producing reliable 
 }
 \keyword{package}
 \seealso{
-\code{\link{evaluating_primary_research}}, \code{\link{rr_checklist}}, \code{\link{partnership_checklist}}
+\code{\link{evaluating-primary-research-checklist}}, \code{\link{reliable-research-checklist}}, \code{\link{research-partnership-checklist}}
 }
 \examples{
 \dontrun{
@@ -63,12 +63,12 @@ rmarkdown:::enumerate_templates(package = "rrchecklist")
 
 # Create a reliable research practices checklist
 rmarkdown::draft("my_project_checklist.Rmd",
-                 template = "rr_checklist",
+                 template = "reliable-research-checklist",
                  package = "rrchecklist")
 
 # View template documentation
-?rr_checklist
-?evaluating_primary_research
-?partnership_checklist
+?`reliable-research-checklist`
+?`evaluating-primary-research-checklist`
+?`research-partnership-checklist`
 }
 }
