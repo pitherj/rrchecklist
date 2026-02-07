@@ -5,12 +5,11 @@ Version: 0.1.0
 Authors@R: c(
     person("Jason", "Pither", email = "pitherj@gmail.com", role = c("aut", "cre")),
     person("Mathew", "Vis-Dunbar", role = "aut"))
-Description: Provides three checklists for reliable research practices in both
-    R Markdown and Quarto formats: evaluating primary research, documenting reliable
-    research practices, and maintaining ethical community partnerships. Checklists
-    cover study planning, conducting research, reporting findings, and enhancing
-    transparency. Researchers can complete checklists and render to PDF or HTML for
-    submission alongside manuscripts during peer review.
+Description: Provides two checklists for reliable research practices in both
+    R Markdown and Quarto formats: evaluating primary research and documenting reliable
+    research practices. Checklists cover study planning, conducting research, reporting
+    findings, and enhancing transparency. Researchers can complete checklists and render
+    to PDF or HTML for submission alongside manuscripts during peer review.
 License: CC BY-NC-SA 4.0
 Encoding: UTF-8
 LazyData: true

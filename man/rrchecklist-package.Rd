@@ -6,10 +6,10 @@
 Reliable Research Checklists
 }
 \description{
-Provides three R Markdown templates for reliable research practices: evaluating primary research, documenting reliable research practices, and maintaining ethical community partnerships. Templates support both PDF and HTML output formats.
+Provides two R Markdown templates for reliable research practices: evaluating primary research and documenting reliable research practices. Templates support both PDF and HTML output formats.
 }
 \details{
-The rrchecklist package includes three comprehensive checklists as R Markdown templates:
+The rrchecklist package includes two comprehensive checklists as R Markdown templates:
 
 \strong{1. Evaluating Primary Research} (\code{\link{evaluating-primary-research-checklist}})
 
@@ -18,10 +18,6 @@ A checklist for critically evaluating published research covering study design, 
 \strong{2. Reliable Research Practices} (\code{\link{reliable-research-checklist}})
 
 A comprehensive checklist for conducting research following best practices. Covers all stages from planning through dissemination. Complete throughout your project and submit with manuscripts to demonstrate research transparency.
-
-\strong{3. Community-Engaged Research Partnerships} (\code{\link{research-partnership-checklist}})
-
-A checklist for ethical community-based research following CARE principles (Collective benefit, Authority to control, Responsibility, Ethics). Addresses partnership formation, cultural considerations, and long-term collaboration.
 
 \strong{Output Formats:}
 
@@ -54,7 +50,7 @@ Pither, J. and Vis-Dunbar, M. (2025). Concise guidelines for producing reliable 
 }
 \keyword{package}
 \seealso{
-\code{\link{evaluating-primary-research-checklist}}, \code{\link{reliable-research-checklist}}, \code{\link{research-partnership-checklist}}
+\code{\link{evaluating-primary-research-checklist}}, \code{\link{reliable-research-checklist}}
 }
 \examples{
 \dontrun{
@@ -69,6 +65,5 @@ rmarkdown::draft("my_project_checklist.Rmd",
 # View template documentation
 ?`reliable-research-checklist`
 ?`evaluating-primary-research-checklist`
-?`research-partnership-checklist`
 }
 }

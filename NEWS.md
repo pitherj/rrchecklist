@@ -2,12 +2,11 @@
 
 ## Initial Release
 
-* Added three R Markdown templates for reliable research practices:
+* Added two R Markdown templates for reliable research practices:
   - Evaluating Primary Research Checklist
   - Reliable Research Practices Checklist
-  - Community-Engaged Research Partnership Checklist
 
-* Added Quarto versions of all three templates
+* Added Quarto versions of both templates
 
 * Each template supports both HTML and PDF output formats
 

@@ -28,10 +28,9 @@ After installation and restarting R/RStudio:
 1. **In RStudio:**
    - Go to `File > New File > R Markdown...`
    - Click "From Template"
-   - Select one of three templates:
+   - Select one of two templates:
      - **Evaluating Primary Research** - For critically evaluating published research
      - **Reliable Research Practices** - For documenting your own research practices
-     - **Community-Engaged Research Partnerships** - For ethical community partnerships
    - Choose a location and filename
    - Click "OK"
 
@@ -72,7 +71,6 @@ library(rrchecklist)
 # View help for specific templates
 ?evaluating-primary-research-checklist
 ?reliable-research-checklist
-?research-partnership-checklist
 
 # View package overview
 ?rrchecklist
@@ -80,7 +78,7 @@ library(rrchecklist)
 
 ## Using Quarto Templates
 
-The package includes Quarto versions of all three templates. Quarto is a modern publishing system that works with R, Python, and other languages.
+The package includes Quarto versions of both templates. Quarto is a modern publishing system that works with R, Python, and other languages.
 
 ### Installing Quarto
 
@@ -122,15 +120,11 @@ The package includes Quarto versions of all three templates. Quarto is a modern 
    - Click the "Render" button in RStudio
    - Select HTML or PDF from the dropdown menu
 
-**Alternative template paths:**
+**Alternative template path:**
 
 ```r
 # Evaluating primary research
 system.file("quarto/templates/evaluating-primary-research-checklist/template.qmd",
-            package = "rrchecklist")
-
-# Partnership checklist
-system.file("quarto/templates/research-partnership-checklist/template.qmd",
             package = "rrchecklist")
 ```
 
@@ -165,7 +159,7 @@ quarto preview my_checklist.qmd             # Live preview
 - **Most common cause:** You need to restart R/RStudio after installation (Session > Restart R)
 - Check installation was successful: `library(rrchecklist)`
 - Verify templates exist: `rmarkdown:::enumerate_templates(package = "rrchecklist")`
-- Should show exactly 3 templates: evaluating-primary-research-checklist, reliable-research-checklist, research-partnership-checklist
+- Should show exactly 2 templates: evaluating-primary-research-checklist, reliable-research-checklist
 
 **HTML output looks plain**
 - Ensure you're knitting to html_document (not pdf_document)

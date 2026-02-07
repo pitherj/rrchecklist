@@ -2,11 +2,11 @@
 
 **NOTE**: 2026-02-07 - This package is under development.
 
-An R package providing three checklists for reliable research practices in both R Markdown and Quarto formats. These checklists help researchers evaluate existing research, document their own research practices, and maintain ethical community partnerships.
+An R package providing two checklists for reliable research practices in both R Markdown and Quarto formats. These checklists help researchers evaluate existing research and document their own research practices.
 
 ## Overview
 
-The package includes three distinct checklist templates:
+The package includes two distinct checklist templates:
 
 ### 1. Evaluating Primary Research
 
@@ -27,16 +27,6 @@ A comprehensive checklist for conducting your own research. Use when:
 - Training in research methods
 
 Covers: planning, conducting, reporting/interpreting, and enhancing transparency following best practices for reproducibility.
-
-### 3. Community-Engaged Research Partnerships
-
-A checklist for ethical community-based research. Use when:
-- Establishing research partnerships with communities
-- Documenting adherence to CARE principles
-- Ensuring respectful and ethical collaboration
-- Training in community-engaged research
-
-Covers: partnership and co-design, ethics and cultural considerations, implementation, dissemination, and long-term partnership maintenance.
 
 ## Installation
 
@@ -71,7 +61,6 @@ After installation (and restarting R/RStudio), create a new checklist document i
 3. Select one of:
    - **Evaluating Primary Research**
    - **Reliable Research Practices**
-   - **Community-Engaged Research Partnerships**
 4. Fill in the YAML header with your information
 5. Check off completed items using `[x]` instead of `[ ]`
 6. Add notes and documentation links beneath relevant sections
@@ -120,14 +109,10 @@ file.edit(template_path)
 # 4. Edit your saved file and click "Render" button to generate output
 ```
 
-**Alternative templates:**
+**Alternative template:**
 ```r
 # Evaluating primary research
 system.file("quarto/templates/evaluating-primary-research-checklist/template.qmd",
-            package = "rrchecklist")
-
-# Partnership checklist
-system.file("quarto/templates/research-partnership-checklist/template.qmd",
             package = "rrchecklist")
 ```
 
@@ -151,7 +136,6 @@ library(rrchecklist)
 # View help for each template
 ?evaluating-primary-research-checklist
 ?reliable-research-checklist
-?research-partnership-checklist
 ```
 
 ### Adding Documentation
@@ -161,7 +145,6 @@ The templates include space for notes after each section. Use this to:
 - Link to pre-registration (e.g., OSF, AsPredicted)
 - Provide data repository URLs (e.g., Dryad, Figshare, Zenodo)
 - Reference ethics approval numbers
-- Document partnership agreements
 - Document deviations from planned protocols
 - Explain how specific criteria were met
 

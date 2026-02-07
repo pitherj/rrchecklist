@@ -50,5 +50,5 @@ rmarkdown::draft("my_reliable-research-checklist.Rmd",
 Pither, J. and Vis-Dunbar, M. (2025). Concise guidelines for producing reliable research. CC BY-NC-SA 4.0.
 }
 \seealso{
-\code{\link{evaluating-primary-research-checklist}}, \code{\link{research-partnership-checklist}}
+\code{\link{evaluating-primary-research-checklist}}
 }
