@@ -185,7 +185,7 @@ The Reliable Research Practices checklist can be submitted as supplementary mate
 
 ## License
 
-This package and all checklist templates are licensed under CC BY-NC-SA 4.0.
+This package and all checklist templates are licensed under MIT license.
 
 ## Citation
 
