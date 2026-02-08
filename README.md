@@ -1,7 +1,5 @@
 # rrchecklist
 
-**NOTE**: 2026-02-07 - This package is under development.
-
 An R package providing two checklists for reliable research practices in both R Markdown and Quarto formats. These checklists help researchers evaluate existing research and document their own research practices.
 
 ## Overview
@@ -197,6 +195,8 @@ Pither, J. and Vis-Dunbar, M. (2025). Concise guidelines for producing reliable 
 
 - Jason Pither
 - Mathew Vis-Dunbar
+
+Package assembly was completed by Claude Cowork (Sonnet 4.5)
 
 ## Contributing
 
