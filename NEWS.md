@@ -10,6 +10,6 @@
 
 * Each template supports both HTML and PDF output formats
 
-* Comprehensive help documentation for all templates
+* Help documentation for all templates
 
 * Based on: Pither, J. and Vis-Dunbar, M. (2025). Concise guidelines for producing reliable research. CC BY-NC-SA 4.0.

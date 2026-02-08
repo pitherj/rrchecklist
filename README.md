@@ -20,7 +20,7 @@ Covers: study rationale and planning, reporting and transparency, interpretation
 
 ### 2. Reliable Research Practices
 
-A comprehensive checklist for conducting your own research. Use when:
+A checklist for conducting your own research. Use when:
 - Planning a new research project
 - Documenting research practices for manuscripts
 - Demonstrating compliance with funding requirements
