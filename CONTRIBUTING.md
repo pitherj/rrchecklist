@@ -131,36 +131,12 @@ Help improve documentation by:
 - Add detailed explanation in body if needed
 - Reference relevant issues with #issue-number
 
-### Documentation
-
-- Use sentence case for titles
-- Include examples where helpful
-- Keep help files concise but informative
-
 ## Review Process
 
 1. Maintainers will review your pull request
 2. They may request changes or ask questions
 3. Address feedback by pushing new commits to your branch
 4. Once approved, maintainers will merge your contribution
-
-## Code of Conduct
-
-### Our Standards
-
-We are committed to providing a welcoming and inclusive environment. We expect:
-
-- Respectful and constructive communication
-- Focus on what is best for the community
-- Showing empathy toward others
-- Gracefully accepting constructive feedback
-
-### Unacceptable Behavior
-
-- Harassment or discriminatory language
-- Personal attacks
-- Publishing others' private information
-- Other conduct inappropriate for a professional setting
 
 ## Questions?
 
@@ -172,6 +148,5 @@ If you have questions about contributing:
 
 ## Attribution
 
-By contributing, you agree that your contributions will be licensed under the same CC BY-NC-SA 4.0 license as the project.
+By contributing, you agree that your contributions will be licensed under the same MIT license as the project.
 
-Thank you for helping make research more transparent and reliable!
