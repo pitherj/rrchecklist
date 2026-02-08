@@ -51,3 +51,7 @@ rsconnect/
 
 # MacOS
 .DS_Store
+
+# Local development scripts
+build_and_install.R
+TEST.R
