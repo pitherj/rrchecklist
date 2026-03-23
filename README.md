@@ -189,14 +189,12 @@ This package and all checklist templates are licensed under MIT license.
 
 Based on:
 
-Pither, J. and Vis-Dunbar, M. (2025). Concise guidelines for producing reliable research. CC BY-NC-SA 4.0.
+Pither, J. and Vis-Dunbar, M. (2026). Concise guidelines for producing reliable, reproducible research. CC BY-NC-SA 4.0.
 
 ## Authors
 
 - Jason Pither
 - Mathew Vis-Dunbar
-
-Package assembly was completed by Claude Cowork (Sonnet 4.5)
 
 ## Contributing
 

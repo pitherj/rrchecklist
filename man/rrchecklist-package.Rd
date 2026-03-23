@@ -46,7 +46,7 @@ Mathew Vis-Dunbar
 Maintainer: Jason Pither <pitherj@gmail.com>
 }
 \references{
-Pither, J. and Vis-Dunbar, M. (2025). Concise guidelines for producing reliable research. CC BY-NC-SA 4.0.
+Pither, J. and Vis-Dunbar, M. (2026). Concise guidelines for producing reliable, reproducible research. CC BY-NC-SA 4.0.
 }
 \keyword{package}
 \seealso{
@@ -54,9 +54,6 @@ Pither, J. and Vis-Dunbar, M. (2025). Concise guidelines for producing reliable 
 }
 \examples{
 \dontrun{
-# List available templates
-rmarkdown:::enumerate_templates(package = "rrchecklist")
-
 # Create a reliable research practices checklist
 rmarkdown::draft("my_project_checklist.Rmd",
                  template = "reliable-research-checklist",

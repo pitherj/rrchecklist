@@ -46,7 +46,7 @@ rmarkdown::draft("my_evaluation.Rmd",
 }
 }
 \references{
-Pither, J. and Vis-Dunbar, M. (2025). Concise guidelines for producing reliable research. CC BY-NC-SA 4.0.
+Pither, J. and Vis-Dunbar, M. (2026). Concise guidelines for producing reliable, reproducible research. CC BY-NC-SA 4.0.
 }
 \seealso{
 \code{\link{reliable-research-checklist}}

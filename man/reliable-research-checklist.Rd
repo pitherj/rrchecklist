@@ -13,7 +13,7 @@ The template provides a comprehensive checklist organized into four main section
 
 \strong{C. Reporting, Interpreting, and Communicating} - Addresses transparent reporting of methods and results, objective interpretation, appropriate statistical practices, and acknowledgment of contributions.
 
-\strong{D. Enhancing Transparency, Reach, and Impact} - Covers data and code sharing following FAIR and CARE principles, open access publishing, and effective dissemination.
+\strong{D. Enhancing Transparency, Replicability, Discoverability, and Impact} - Covers data and code sharing following FAIR and CARE principles, open access publishing, and effective dissemination.
 
 \strong{Use Cases:}
 \itemize{
@@ -47,7 +47,7 @@ rmarkdown::draft("my_reliable-research-checklist.Rmd",
 }
 }
 \references{
-Pither, J. and Vis-Dunbar, M. (2025). Concise guidelines for producing reliable research. CC BY-NC-SA 4.0.
+Pither, J. and Vis-Dunbar, M. (2026). Concise guidelines for producing reliable, reproducible research. CC BY-NC-SA 4.0.
 }
 \seealso{
 \code{\link{evaluating-primary-research-checklist}}

@@ -51,13 +51,13 @@ knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
 
 - [ ] Articulate how each question/hypothesis will be evaluated
 
-- [ ] Define target population(s) for any and all inferences
+- [ ] Define target population(s), scope of inference, and units of observation
 
 - [ ] Identify others who could be impacted by the research (if applicable)
 
 - [ ] If applicable, document any re-use/overlap of data from previous/ongoing research
 
-- [ ] Specify whether study is experimental or observational
+- [ ] Specify whether study is experimental, quasi-experimental, or observational (units not randomly assigned to treatments = observational or quasi-experimental)
 
 - [ ] If observational, plan how sampling bias will be minimized
 
@@ -66,6 +66,8 @@ knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
 - [ ] If experimental, describe and rationalize all interventions/treatments
 
 - [ ] If confirmatory, conduct prospective power analysis using plausible effect sizes
+
+- [ ] If exploratory, justify sample sizes based on feasibility, resource constraints, or desired precision
 
 - [ ] If confirmatory, detail what would constitute evidence consistent with each distinct hypothesis
 
@@ -81,7 +83,7 @@ knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
 
 - [ ] Complete ethics approvals prior to data collection
 
-- [ ] Consider planning a multiverse analysis for assessing robustness of findings
+- [ ] Consider sensitivity analysis to evaluate robustness of findings to alternative data pre-processing and/or analysis methods
 
 **Notes:**
 
@@ -231,7 +233,7 @@ knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
 
 \newpage
 
-# D. ENHANCING TRANSPARENCY, REACH, AND IMPACT
+# D. ENHANCING TRANSPARENCY, REPLICABILITY, DISCOVERABILITY, AND IMPACT
 
 ## Data and Code Sharing
 
@@ -275,6 +277,6 @@ Use this section to provide links and evidence for checklist items (e.g., pre-re
 
 **References:**
 
-Pither, J. and Vis-Dunbar, M. (2025). Concise guidelines for producing reliable research. CC BY-NC-SA 4.0.
+Pither, J. and Vis-Dunbar, M. (2026). Concise guidelines for producing reliable, reproducible research. CC BY-NC-SA 4.0.
 
 **Checklist Citation:** _[This section can be used to cite this checklist if submitted with a manuscript]_

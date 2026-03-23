@@ -49,11 +49,13 @@ knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
 
 - [ ] Articulates how each question/hypothesis will be evaluated
 
-- [ ] Defines target population(s) for any and all inferences
+- [ ] Defines target population(s), scope of inference, and units of observation
 
 - [ ] Identifies others who could be impacted by the research (if applicable)
 
-- [ ] If observational, study describes how sampling bias was minimized
+- [ ] Specifies whether study is experimental, quasi-experimental, or observational
+
+- [ ] If observational or quasi-experimental, study describes how sampling bias was minimized
 
 - [ ] If experimental, study employs proper randomization and blinding (where appropriate)
 
@@ -189,6 +191,8 @@ knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
 
 - [ ] Appears to disguise exploratory research as confirmatory research
 
+- [ ] Presents a pilot study as confirmatory research without acknowledging its exploratory elements or deviations from intended design
+
 **Notes:**
 
 \vspace{1cm}
@@ -209,4 +213,4 @@ knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
 
 **Reference:**
 
-Pither, J. and Vis-Dunbar, M. (2025). Concise guidelines for producing reliable research. CC BY-NC-SA 4.0.
+Pither, J. and Vis-Dunbar, M. (2026). Concise guidelines for producing reliable, reproducible research. CC BY-NC-SA 4.0.
