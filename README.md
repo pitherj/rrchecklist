@@ -196,7 +196,7 @@ The Reliable Research Practices checklist can be submitted as supplementary mate
 
 ## License
 
-This package and all checklist templates are licensed under GNU General Public License v2.0 (GPL-2.0)[https://www.tldrlegal.com/license/gnu-general-public-license-v2#fulltext].
+This package and all checklist templates are licensed under GNU General Public License v2.0 [GPL-2.0](https://www.tldrlegal.com/license/gnu-general-public-license-v2#fulltext).
 
 ## Citation
 
