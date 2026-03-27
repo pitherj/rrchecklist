@@ -17,7 +17,7 @@ date: "[Date]"
 ---
 
 **Instructions:** Check off items as you complete them throughout your research project.
-Add notes or links to documentation (e.g., pre-registration URLs, repository links)
+Optionally, add notes or links to documentation (e.g., pre-registration URLs, repository links)
 beneath relevant sections to provide evidence for peer review.
 
 ---
@@ -32,9 +32,13 @@ beneath relevant sections to provide evidence for peer review.
 
 - [ ] Articulate how each question/hypothesis will be evaluated
 
-- [ ] Define target population(s), scope of inference, and units of observation
+- [ ] Define target population(s)
 
-- [ ] Identify others who could be impacted by the research (if applicable)
+- [ ] Define scope of inference
+
+- [ ] Define units of observation
+
+- [ ] Identify those who could be impacted by the research (if applicable)
 
 - [ ] If applicable, document any re-use/overlap of data from previous/ongoing research
 
@@ -47,7 +51,7 @@ beneath relevant sections to provide evidence for peer review.
 
 - [ ] If experimental, describe and rationalize all interventions/treatments
 
-- [ ] If confirmatory, conduct prospective power analysis using plausible effect sizes
+- [ ] If confirmatory, conduct prospective power analysis using relevant statistical methods and plausible effect sizes
 
 - [ ] If exploratory, justify sample sizes based on feasibility, resource constraints,
   or desired precision
@@ -97,12 +101,14 @@ beneath relevant sections to provide evidence for peer review.
 
 ---
 
-## Pre-registration and Data Management
+## Pre-registration, Workflow Transparency, and Data Management
 
 - [ ] Pre-register study design and analysis plan in a public repository
   (embargo if necessary)
 
 - [ ] Create a data management plan (DMP)
+
+- [ ] Consider using transparent/open, version-controlled reporting systems
 
 **Notes:**
 
@@ -115,8 +121,6 @@ beneath relevant sections to provide evidence for peer review.
 - [ ] Have research plan reviewed by subject matter experts
 
 - [ ] Have research plan reviewed by peers outside your immediate field
-
-- [ ] If appropriate, create infographic to visualize study design
 
 **Notes:**
 
@@ -134,8 +138,6 @@ beneath relevant sections to provide evidence for peer review.
   measurement mistakes)
 
 - [ ] Document data exclusions with justification
-
-- [ ] Consider using transparent/open, version-controlled reporting systems
 
 **Notes:**
 
@@ -215,6 +217,8 @@ beneath relevant sections to provide evidence for peer review.
 
 - [ ] Describe each author's roles in the research using CRediT or MeRIT
 
+- [ ] Encourage all contributors to acquire an ORCID
+
 - [ ] Acknowledge any conflicts of interest
 
 - [ ] Acknowledge all funding supports
@@ -236,8 +240,8 @@ beneath relevant sections to provide evidence for peer review.
 - [ ] Ensure data are as open as possible and as closed as necessary according to
   FAIR principles
 
-- [ ] Ensure data are as open as possible and as closed as necessary according to
-  CARE principles
+- [ ] Where relevant, ensure data are as open as possible and as closed as necessary
+  according to CARE principles
 
 - [ ] Archive data in an appropriate repository with detailed metadata
 

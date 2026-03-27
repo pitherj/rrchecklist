@@ -89,7 +89,9 @@ evaluation and identify strengths or concerns.
 
 - [ ] Uses accessible visualizations (e.g., accessible colour palettes in figures)
 
-- [ ] Reports findings of both planned and unplanned analyses
+- [ ] Reports findings of all planned analyses
+
+- [ ] If included, all unplanned analyses and associated results are clearly labelled as such
 
 - [ ] Consistently reports sample sizes for all analyses and figures
 
@@ -107,7 +109,7 @@ evaluation and identify strengths or concerns.
 
 - [ ] Acknowledges any use of AI tools
 
-- [ ] Acknowledges all (non-authors) who contributed to the research
+- [ ] Includes acknowledgments of contributions by non-authors
 
 **Notes:**
 
@@ -160,7 +162,7 @@ evaluation and identify strengths or concerns.
 
 ---
 
-## Warning Signs
+## Warning signs (no checkmark = better)
 
 _Flag any of the following if observed — these do not automatically invalidate a study
 but warrant closer scrutiny and should be noted in your evaluation._
@@ -200,12 +202,6 @@ but warrant closer scrutiny and should be noted in your evaluation._
 **Summary:**
 
 &nbsp;
-
-&nbsp;
-
-&nbsp;
-
-**Recommendation:**
 
 &nbsp;
 

@@ -105,7 +105,9 @@ ul li input[type="checkbox"] { margin-right: 0.4em; }
 
 - [ ] Uses accessible visualizations (e.g., accessible colour palettes in figures)
 
-- [ ] Reports findings of both planned and unplanned analyses
+- [ ] Reports findings of all planned analyses
+
+- [ ] If included, all unplanned analyses and associated results are clearly labelled as such
 
 - [ ] Consistently reports sample sizes for all analyses and figures
 
@@ -123,7 +125,7 @@ ul li input[type="checkbox"] { margin-right: 0.4em; }
 
 - [ ] Acknowledges any use of AI tools
 
-- [ ] Acknowledges all (non-authors) who contributed to the research
+- [ ] Includes acknowledgments of contributions by non-authors
 
 **Notes:**
 
@@ -173,7 +175,7 @@ ul li input[type="checkbox"] { margin-right: 0.4em; }
 
 ---
 
-## Warning Signs
+## Warning signs (no checkmark = better)
 
 - [ ] Published in a predatory journal
 
@@ -208,10 +210,6 @@ ul li input[type="checkbox"] { margin-right: 0.4em; }
 **Summary:**
 
 \vspace{3cm}
-
-**Recommendation:**
-
-\vspace{2cm}
 
 ---
 
