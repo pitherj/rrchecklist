@@ -40,16 +40,16 @@ evaluation and identify strengths or concerns.
 - [ ] If observational or quasi-experimental, study describes how sampling bias
   was minimized
 
-- [ ] If experimental, study employs proper randomization and blinding
+- [ ] If experimental, study employs proper controls, randomization, and blinding
   (where appropriate)
 
 - [ ] If confirmatory, study explicitly considers statistical power
 
-- [ ] If confirmatory, study details what would constitute evidence consistent with
-  each distinct hypothesis
+- [ ] If confirmatory, study details what would constitute evidence (i) consistent
+  with and (ii) contrary to each distinct hypothesis
 
-- [ ] If observational or quasi-experimental, study describes and rationalizes all
-  dependent and independent variables
+- [ ] If observational or quasi-experimental, study describes and rationalizes
+  all dependent and independent variables
 
 - [ ] If experimental, study describes and rationalizes all interventions/treatments
 
@@ -127,6 +127,8 @@ evaluation and identify strengths or concerns.
 
 - [ ] If observational or quasi-experimental, study acknowledges limits to causal
   inference
+
+
 
 - [ ] Discusses alternative interpretations of findings
 

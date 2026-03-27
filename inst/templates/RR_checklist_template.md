@@ -43,7 +43,7 @@ beneath relevant sections to provide evidence for peer review.
 
 - [ ] If observational or quasi-experimental, plan how sampling bias will be minimized
 
-- [ ] If experimental, plan for proper randomization and blinding (where appropriate)
+- [ ] If experimental, plan for proper controls, randomization, and blinding (where appropriate)
 
 - [ ] If experimental, describe and rationalize all interventions/treatments
 
@@ -52,13 +52,13 @@ beneath relevant sections to provide evidence for peer review.
 - [ ] If exploratory, justify sample sizes based on feasibility, resource constraints,
   or desired precision
 
-- [ ] If confirmatory, detail what would constitute evidence consistent with each
-  distinct hypothesis
+- [ ] If confirmatory, detail what would constitute evidence (i) consistent with
+  and (ii) contrary to each distinct hypothesis
 
 - [ ] If confirmatory, plan P-value adjustments for multiple testing where appropriate
 
-- [ ] If observational or quasi-experimental, describe and rationalize all dependent
-  and independent variables
+- [ ] If observational or quasi-experimental, describe and rationalize all
+  dependent and independent variables
 
 - [ ] Describe and rationalize structure of statistical model for each planned analysis
 
@@ -192,7 +192,8 @@ beneath relevant sections to provide evidence for peer review.
 
 - [ ] Discuss study limitations
 
-- [ ] If observational or quasi-experimental, acknowledge limits to causal inference
+- [ ] If observational or quasi-experimental, acknowledge limits to causal
+  inference
 
 - [ ] Discuss alternative interpretations of findings
 
@@ -228,7 +229,7 @@ beneath relevant sections to provide evidence for peer review.
 
 ---
 
-# D. ENHANCING TRANSPARENCY, REPLICABILITY, DISCOVERABILITY, AND IMPACT
+# D. ENHANCING REPLICABILITY, DISCOVERABILITY, ACCESSIBILITY, AND REACH
 
 ## Data and Code Sharing
 

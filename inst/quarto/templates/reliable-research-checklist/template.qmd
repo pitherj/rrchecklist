@@ -15,6 +15,12 @@ format:
     fontsize: 11pt
 ---
 
+```{=html}
+<style>
+ul li input[type="checkbox"] { margin-right: 0.4em; }
+</style>
+```
+
 ## Project Information
 
 **Project Title:** _[Enter project title]_
@@ -49,9 +55,9 @@ format:
 
 - [ ] Specify whether study is experimental, quasi-experimental, or observational (units not randomly assigned to treatments = observational or quasi-experimental)
 
-- [ ] If observational, plan how sampling bias will be minimized
+- [ ] If observational or quasi-experimental, plan how sampling bias will be minimized
 
-- [ ] If experimental, plan for proper randomization and blinding (where appropriate)
+- [ ] If experimental, plan for proper controls, randomization, and blinding (where appropriate)
 
 - [ ] If experimental, describe and rationalize all interventions/treatments
 
@@ -59,11 +65,11 @@ format:
 
 - [ ] If exploratory, justify sample sizes based on feasibility, resource constraints, or desired precision
 
-- [ ] If confirmatory, detail what would constitute evidence consistent with each distinct hypothesis
+- [ ] If confirmatory, detail what would constitute evidence (i) consistent with and (ii) contrary to each distinct hypothesis
 
 - [ ] If confirmatory, plan P-value adjustments for multiple testing where appropriate
 
-- [ ] If observational, describe and rationalize all dependent and independent variables
+- [ ] If observational or quasi-experimental, describe and rationalize all dependent and independent variables
 
 - [ ] Describe and rationalize structure of statistical model for each planned analysis
 
@@ -183,7 +189,7 @@ format:
 
 - [ ] Discuss study limitations
 
-- [ ] If observational, acknowledge limits to causal inference
+- [ ] If observational or quasi-experimental, acknowledge limits to causal inference
 
 - [ ] Discuss alternative interpretations of findings
 
@@ -217,7 +223,7 @@ format:
 
 ---
 
-# D. ENHANCING TRANSPARENCY, REPLICABILITY, DISCOVERABILITY, AND IMPACT
+# D. ENHANCING REPLICABILITY, DISCOVERABILITY, ACCESSIBILITY, AND REACH
 
 ## Data and Code Sharing
 

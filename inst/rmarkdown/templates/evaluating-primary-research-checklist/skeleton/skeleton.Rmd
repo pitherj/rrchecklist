@@ -23,6 +23,10 @@ fontsize: 11pt
 knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
 ```
 
+<style>
+ul li input[type="checkbox"] { margin-right: 0.4em; }
+</style>
+
 ## Evaluation Information
 
 **Manuscript/Study Title:** _[Enter title]_
@@ -57,13 +61,13 @@ knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
 
 - [ ] If observational or quasi-experimental, study describes how sampling bias was minimized
 
-- [ ] If experimental, study employs proper randomization and blinding (where appropriate)
+- [ ] If experimental, study employs proper controls, randomization, and blinding (where appropriate)
 
 - [ ] If confirmatory, study explicitly considers statistical power
 
-- [ ] If confirmatory, study details what would constitute evidence consistent with each distinct hypothesis
+- [ ] If confirmatory, study details what would constitute evidence (i) consistent with and (ii) contrary to each distinct hypothesis
 
-- [ ] If observational, study describes and rationalizes all dependent and independent variables
+- [ ] If observational or quasi-experimental, study describes and rationalizes all dependent and independent variables
 
 - [ ] If experimental, study describes and rationalizes all interventions/treatments
 
@@ -137,7 +141,7 @@ knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
 
 - [ ] Discusses study limitations
 
-- [ ] If observational, study acknowledges limits to causal inference
+- [ ] If observational or quasi-experimental, study acknowledges limits to causal inference
 
 - [ ] Discusses alternative interpretations of findings
 
