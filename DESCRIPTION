@@ -10,7 +10,7 @@ Description: Provides two checklists for reliable research practices in both
     research practices. Checklists cover study planning, conducting research, reporting
     findings, and enhancing transparency. Researchers can complete checklists and render
     to PDF or HTML for submission alongside manuscripts during peer review.
-License: MIT + file LICENSE
+License: GPL-2
 Encoding: UTF-8
 RoxygenNote: 7.3.3
 Suggests:
