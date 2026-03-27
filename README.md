@@ -1,6 +1,19 @@
 # rrchecklist
 
-An R package providing two checklists for reliable research practices in both R Markdown and Quarto formats. These checklists help researchers evaluate existing research and document their own research practices.
+An R package providing two checklists for reliable research practices in both R Markdown and Quarto formats. These checklists help researchers evaluate existing research and document their own research practices.  
+
+These checklists are designed to complement the following guidelines document:  
+
+Pither, J. and Vis-Dunbar, M. (2026). Concise guidelines for producing reliable, reproducible research. CC BY-NC-SA 4.0.
+
+You are welcome to clone this GitHub repo in order to tailor the checklists to your own needs. If you do, please cite both the guidelines document and this R package:
+
+Pither, J., Vis-Dunbar, M. 2026. rrchecklist: an R package providing markdown templates for checklists to support research assessment and the production of reliable research. 
+
+Based on:
+
+Pither, J. and Vis-Dunbar, M. (2026). Concise guidelines for producing reliable, reproducible research. CC BY-NC-SA 4.0.
+
 
 ## Overview
 
@@ -68,8 +81,8 @@ After installation (and restarting R/RStudio), create a new checklist document i
 
 Each template supports two output formats:
 
-- **HTML** (default): Interactive document with floating table of contents
-- **PDF**: Professional document for submission or archiving
+- **HTML** (default): Interactive document with floating table of contents; can subsequently be printed for records if desired
+- **PDF**: PDF document that can be used for submission or archiving
 
 To change the output format, select from the dropdown menu next to the "Knit" button in RStudio, or modify the YAML header:
 
@@ -138,7 +151,7 @@ library(rrchecklist)
 
 ### Adding Documentation
 
-The templates include space for notes after each section. Use this to:
+The templates include space for notes after each section. Optionally use this to:
 
 - Link to pre-registration (e.g., OSF, AsPredicted)
 - Provide data repository URLs (e.g., Dryad, Figshare, Zenodo)
@@ -187,14 +200,16 @@ This package and all checklist templates are licensed under MIT license.
 
 ## Citation
 
+Pither, J., Vis-Dunbar, M. 2026. rrchecklist: an R package providing markdown templates for checklists to support research assessment and the production of reliable research. 
+
 Based on:
 
 Pither, J. and Vis-Dunbar, M. (2026). Concise guidelines for producing reliable, reproducible research. CC BY-NC-SA 4.0.
 
 ## Authors
 
-- Jason Pither
-- Mathew Vis-Dunbar
+- Jason Pither ([ORCID](https://orcid.org/0000-0002-7490-6839)); jason <dot> pither [at] ubc <dot> com
+- Mathew Vis-Dunbar ([ORCID](https://orcid.org/0000-0001-6541-9660))
 
 ## Contributing
 
