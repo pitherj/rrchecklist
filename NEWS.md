@@ -1,5 +1,10 @@
 # rrchecklist 0.2.0
 
+## Initial public deployment
+
+This is the initial public release. The package is offered as a starting point for others to clone and adapt rather than as an actively maintained project. See CONTRIBUTING.md for details.
+
+
 ## Updates based on revised guidelines (2026-03-17)
 
 * Updated reference: Pither & Vis-Dunbar (2026). Concise guidelines for producing reliable, reproducible research.

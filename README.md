@@ -15,6 +15,10 @@ Based on:
 Pither, J. and Vis-Dunbar, M. (2026). Concise guidelines for producing reliable, reproducible research. CC BY-NC-SA 4.0.
 
 
+## Maintenance status
+
+This package is offered as a starting point rather than an actively maintained project. We envision users cloning the repository and tailoring the templates to their own needs. Depending on community interest, we may adopt a more formal maintenance and contribution process in the future.
+
 ## Overview
 
 The package includes two distinct checklist templates:
@@ -139,15 +143,7 @@ quarto render my_checklist.qmd --to pdf    # PDF
 
 ### Accessing Help
 
-View detailed information about each template:
-
-```r
-library(rrchecklist)
-
-# View help for each template
-?evaluating-primary-research-checklist
-?reliable-research-checklist
-```
+There are no formal "help" documents associated with the package.
 
 ### Adding Documentation
 
@@ -190,10 +186,6 @@ install.packages("tinytex")
 tinytex::install_tinytex()
 ```
 
-## Submission with Manuscripts
-
-The Reliable Research Practices checklist can be submitted as supplementary material during peer review to demonstrate adherence to best practices. This transparency can strengthen your manuscript and facilitate the review process.
-
 ## License
 
 This package and all checklist templates are licensed under GNU General Public License v2.0 [GPL-2.0](https://www.tldrlegal.com/license/gnu-general-public-license-v2#fulltext).
@@ -213,4 +205,4 @@ Pither, J. and Vis-Dunbar, M. (2026). Concise guidelines for producing reliable,
 
 ## Contributing
 
-To suggest improvements or report issues, please contact the package maintainers or submit an issue on GitHub.
+This package is not actively maintained with a formal contribution process. The recommended approach is to clone the repository and adapt it to your own needs — the GPL-2 license permits this freely. If you have questions or feedback, open a GitHub issue or contact the authors directly. See [CONTRIBUTING.md](CONTRIBUTING.md) for details.
