@@ -2,9 +2,9 @@
 
 An R package providing two checklists for reliable research practices in both R Markdown and Quarto formats. These checklists help researchers evaluate existing research and document their own research practices.  
 
-These checklists are designed to complement the following guidelines document:  
+These checklists are designed to complement the following guidelines document (preprint available [here](https://pitherj.github.io/example_reproducible_workflow/more/Pither_Vis-Dunbar_concise_guidelines_preprint.pdf)):  
 
-Pither, J. and Vis-Dunbar, M. (2026). Concise guidelines for producing reliable, reproducible research. CC BY-NC-SA 4.0.
+Pither, J. and Vis-Dunbar, M. (2026). Concise guidelines and complementary checklists for improving research reliability and reproducibility. CC BY-NC-SA 4.0.
 
 You are welcome to clone this GitHub repo in order to tailor the checklists to your own needs. If you do, please cite both the guidelines document and this R package:
 
