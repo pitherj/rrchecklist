@@ -55,3 +55,8 @@ rsconnect/
 # Local development scripts
 build_and_install.R
 TEST.R
+
+# GitHub traffic archiving (local only)
+fetch_github_traffic.py
+run_fetch_traffic.sh
+traffic/

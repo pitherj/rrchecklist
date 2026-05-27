@@ -22,13 +22,39 @@ beneath relevant sections to provide evidence for peer review.
 
 ---
 
-# A. PLANNING YOUR RESEARCH
+# A. EVALUATING EXISTING RESEARCH
+
+## Critical Evaluation of the Literature
+
+- [ ] Evaluate the existing literature critically and objectively (see also the companion
+  "Checklist for Evaluating Primary Research")
+
+- [ ] Distinguish exploratory (hypothesis-generating) from confirmatory (hypothesis-testing)
+  published research when assessing the existing evidence base
+
+- [ ] Be wary of published studies that emphasize P-values over effect sizes, report unplanned
+  or non-reproducible analyses, draw unwarranted causal inferences, or fail to discuss
+  limitations and alternative interpretations
+
+- [ ] Consider conducting a systematic review, including critically evaluating risk of bias
+  following standardized protocols
+
+**Notes:**
+
+&nbsp;
+
+---
+
+# B. PLANNING YOUR RESEARCH
 
 ## Study Rationale and Planning
 
 - [ ] Objectively establish the state of knowledge through unbiased literature assessment
 
 - [ ] Articulate research questions (exploratory) and/or hypotheses (confirmatory)
+
+- [ ] Specify whether study is exploratory (ER), confirmatory (CR), or includes both,
+  and provide rationale(s)
 
 - [ ] Articulate how each question/hypothesis will be evaluated
 
@@ -51,7 +77,25 @@ beneath relevant sections to provide evidence for peer review.
 
 - [ ] If experimental, describe and rationalize all interventions/treatments
 
-- [ ] If confirmatory, conduct prospective power analysis using relevant statistical methods and plausible effect sizes
+- [ ] If observational or quasi-experimental, describe and rationalize all
+  dependent and independent variables
+
+- [ ] Describe and rationalize structure of statistical model for each planned analysis
+
+- [ ] Choose statistical methods best suited to addressing the question(s)/hypotheses
+
+- [ ] Specify how statistical model assumptions will be checked and violations dealt with
+
+- [ ] Plan to accommodate non-Gaussian error distributions, multivariate responses and/or
+  hierarchical/non-independent sampling designs where appropriate
+
+- [ ] If confirmatory, define what would constitute a meaningful effect size
+
+- [ ] If confirmatory, conduct prospective power analysis using relevant statistical methods
+  and plausible effect sizes
+
+- [ ] Especially when power is limited, acknowledge uncertainty and focus on sound study
+  design and data useability
 
 - [ ] If exploratory, justify sample sizes based on feasibility, resource constraints,
   or desired precision
@@ -61,19 +105,12 @@ beneath relevant sections to provide evidence for peer review.
 
 - [ ] If confirmatory, plan P-value adjustments for multiple testing where appropriate
 
-- [ ] If observational or quasi-experimental, describe and rationalize all
-  dependent and independent variables
-
-- [ ] Describe and rationalize structure of statistical model for each planned analysis
-
-- [ ] Specify how statistical model assumptions will be checked
+- [ ] Consider sensitivity ("multiverse") analysis to evaluate robustness of findings to
+  alternative data pre-processing and/or analysis methods
 
 - [ ] Articulate ethical considerations where appropriate
 
 - [ ] Complete ethics approvals prior to data collection
-
-- [ ] Consider sensitivity analysis to evaluate robustness of findings to alternative
-  data pre-processing and/or analysis methods
 
 **Notes:**
 
@@ -88,8 +125,8 @@ beneath relevant sections to provide evidence for peer review.
 - [ ] Ensure those potentially impacted by research can contribute meaningfully to design,
   implementation, and dissemination (where applicable)
 
-- [ ] Plan to track all contributors and contributions throughout project using CRediT
-  or MeRIT frameworks
+- [ ] Plan to track all contributors and contributions throughout project using Dragon Kill
+  Points, CRediT, or MeRIT frameworks
 
 - [ ] Encourage all contributors to acquire an ORCID
 
@@ -106,7 +143,8 @@ beneath relevant sections to provide evidence for peer review.
 - [ ] Pre-register study design and analysis plan in a public repository
   (embargo if necessary)
 
-- [ ] Create a data management plan (DMP)
+- [ ] Create a data management plan (DMP), ensuring adherence to community-specific
+  engagement protocols, data sovereignty policies, and FAIR and CARE guidelines
 
 - [ ] Consider using transparent/open, version-controlled reporting systems
 
@@ -122,13 +160,15 @@ beneath relevant sections to provide evidence for peer review.
 
 - [ ] Have research plan reviewed by peers outside your immediate field
 
+- [ ] Foster a peer community that values providing and receiving constructive criticism
+
 **Notes:**
 
 &nbsp;
 
 ---
 
-# B. CONDUCTING YOUR RESEARCH
+# C. CONDUCTING YOUR RESEARCH
 
 ## Documentation and Transparency
 
@@ -145,7 +185,7 @@ beneath relevant sections to provide evidence for peer review.
 
 ---
 
-# C. REPORTING, INTERPRETING, AND COMMUNICATING YOUR RESEARCH FINDINGS
+# D. REPORTING, INTERPRETING, AND COMMUNICATING YOUR RESEARCH FINDINGS
 
 ## Reporting and Transparency
 
@@ -155,12 +195,13 @@ beneath relevant sections to provide evidence for peer review.
 
 - [ ] Distinguish exploratory from confirmatory analyses
 
-- [ ] Report whether analyses were planned or unplanned
+- [ ] Clearly label any unplanned analyses as such; only planned analyses retain their
+  intended statistical relevance
 
-- [ ] Report results of checks on model assumptions
+- [ ] Report results of checks on model assumptions and remedies to violations
 
-- [ ] Report effect sizes with uncertainty measures (e.g., confidence intervals)
-  for all analyses
+- [ ] Prioritize reporting and interpreting effect sizes with uncertainty measures
+  (e.g., confidence intervals) for all analyses
 
 - [ ] If confirmatory, report effect sizes (with confidence intervals) alongside P-values
 
@@ -168,11 +209,21 @@ beneath relevant sections to provide evidence for peer review.
 
 - [ ] If exploratory, report effect sizes (with confidence intervals)
 
+- [ ] Absence of evidence (i.e. a statistically non-significant result) is not necessarily
+  evidence of absence
+
+- [ ] Statistical significance does not necessarily imply biological relevance
+
+- [ ] Do not imply causation without appropriate justification; consider 'is associated with'
+  rather than 'causes' or 'affects' for non-experimental results
+
 - [ ] Include figures that reveal rather than conceal data
 
 - [ ] Use accessible visualizations (e.g., accessible colour palettes in figures)
 
 - [ ] Consistently report sample sizes for all analyses, treatments, figures, and tables
+
+- [ ] Maximize the accessibility and inclusivity of outputs
 
 **Notes:**
 
@@ -205,6 +256,8 @@ beneath relevant sections to provide evidence for peer review.
 
 - [ ] Clearly label any speculation as such
 
+- [ ] Evaluate draft manuscript against criteria in Section A (Evaluating Existing Research)
+
 **Notes:**
 
 &nbsp;
@@ -215,7 +268,8 @@ beneath relevant sections to provide evidence for peer review.
 
 - [ ] Refer to ethics approvals and/or permits where necessary
 
-- [ ] Describe each author's roles in the research using CRediT or MeRIT
+- [ ] Describe each author's roles in the research using Dragon Kill Points, CRediT,
+  or MeRIT
 
 - [ ] Encourage all contributors to acquire an ORCID
 
@@ -233,7 +287,7 @@ beneath relevant sections to provide evidence for peer review.
 
 ---
 
-# D. ENHANCING REPLICABILITY, DISCOVERABILITY, ACCESSIBILITY, AND REACH
+# E. ENHANCING REPLICABILITY, DISCOVERABILITY, ACCESSIBILITY, AND REACH
 
 ## Data and Code Sharing
 
@@ -243,7 +297,8 @@ beneath relevant sections to provide evidence for peer review.
 - [ ] Where relevant, ensure data are as open as possible and as closed as necessary
   according to CARE principles
 
-- [ ] Archive data in an appropriate repository with detailed metadata
+- [ ] Archive data in an appropriate repository with detailed metadata, shared to
+  facilitate independent replication
 
 - [ ] Ensure executable analysis code is as open as possible and as closed as necessary
 
@@ -259,9 +314,7 @@ beneath relevant sections to provide evidence for peer review.
 
 - [ ] Publish Open Access and/or as a preprint
 
-- [ ] Follow best practices for title, abstract, and keywords
-
-- [ ] Consider creating a broadly-accessible infographic for extension purposes
+- [ ] Follow best practices for title, abstract, and keywords to maximize discoverability
 
 **Notes:**
 
@@ -285,6 +338,6 @@ pre-registration URLs, data repository links, ethics approval numbers).
 **Reference:**
 
 Pither, J. and Vis-Dunbar, M. (2026). Concise guidelines for producing reliable,
-reproducible research. CC BY-NC-SA 4.0.
+reproducible research. CC BY-NC 4.0.
 
 **Checklist Citation:** _[Cite this checklist here if submitting alongside a manuscript]_

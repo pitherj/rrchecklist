@@ -29,6 +29,9 @@ evaluation and identify strengths or concerns.
 
 - [ ] Articulates research questions (exploratory) and/or hypotheses (confirmatory)
 
+- [ ] Specifies whether study is exploratory (ER), confirmatory (CR), or includes
+  both, and provides rationale(s)
+
 - [ ] Articulates how each question/hypothesis will be evaluated
 
 - [ ] Defines target population(s), scope of inference, and units of observation
@@ -44,6 +47,8 @@ evaluation and identify strengths or concerns.
   (where appropriate)
 
 - [ ] If confirmatory, study explicitly considers statistical power
+
+- [ ] If confirmatory, study defines what would constitute a meaningful effect size
 
 - [ ] If confirmatory, study details what would constitute evidence (i) consistent
   with and (ii) contrary to each distinct hypothesis
@@ -83,7 +88,8 @@ evaluation and identify strengths or concerns.
 
 - [ ] Reports results of evaluations of statistical model assumptions
 
-- [ ] Reports effect sizes with uncertainty measures (e.g., confidence intervals)
+- [ ] Prioritizes reporting and interpreting effect sizes with uncertainty measures
+  (e.g., confidence intervals)
 
 - [ ] Reveals rather than conceals data (e.g., shows individual data points in figures)
 
@@ -91,11 +97,18 @@ evaluation and identify strengths or concerns.
 
 - [ ] Reports findings of all planned analyses
 
-- [ ] If included, all unplanned analyses and associated results are clearly labelled as such
+- [ ] If included, all unplanned analyses and associated results are clearly labelled as
+  such (unplanned analyses tend to yield inflated false positive rates)
 
 - [ ] Consistently reports sample sizes for all analyses and figures
 
-- [ ] Provides access to raw data according to FAIR principles
+- [ ] Absence of evidence (i.e. a statistically non-significant result) is not presented
+  as evidence of absence
+
+- [ ] Statistical significance is not equated with biological relevance
+
+- [ ] Provides access to data according to FAIR principles and to facilitate independent
+  replication
 
 - [ ] Provides reproducible analysis code and workflows
 
@@ -123,6 +136,10 @@ evaluation and identify strengths or concerns.
 
 - [ ] Where appropriate, articulates practical relevance to all stakeholders
 
+- [ ] Discusses real-world relevance of effect sizes
+
+- [ ] Interprets findings objectively
+
 - [ ] References both supportive and contrary findings
 
 - [ ] Discusses study limitations
@@ -130,9 +147,12 @@ evaluation and identify strengths or concerns.
 - [ ] If observational or quasi-experimental, study acknowledges limits to causal
   inference
 
-
+- [ ] Does not imply causation without appropriate justification (e.g., uses 'is
+  associated with' rather than 'causes' or 'affects' for observational research)
 
 - [ ] Discusses alternative interpretations of findings
+
+- [ ] Avoids persuasive language
 
 - [ ] Avoids overselling or over-generalizing findings
 
@@ -171,6 +191,8 @@ but warrant closer scrutiny and should be noted in your evaluation._
 
 - [ ] Uses sensationalist or emotive language
 
+- [ ] Emphasizes statistical over biological significance, or P-values over effect sizes
+
 - [ ] Uses phrase "marginally significant"
 
 - [ ] Uses phrase "preliminary findings" without articulating if and how a preliminary
@@ -178,15 +200,14 @@ but warrant closer scrutiny and should be noted in your evaluation._
 
 - [ ] Conceals rather than reveals the data
 
-- [ ] Is clearly exploratory but emphasizes P-values
+- [ ] Appears to disguise exploratory research as confirmatory research
 
-- [ ] Reports results of analyses that were not planned or described in methods
+- [ ] Reports results of analyses that were not planned, not described in methods,
+  or not reproducible
 
 - [ ] Draws causal inferences from observational research with minimal justification
 
 - [ ] References primarily supportive works while ignoring contrary findings
-
-- [ ] Appears to disguise exploratory research as confirmatory research
 
 - [ ] Presents a pilot study as confirmatory research without acknowledging its
   exploratory elements or deviations from intended design
@@ -212,4 +233,4 @@ but warrant closer scrutiny and should be noted in your evaluation._
 **Reference:**
 
 Pither, J. and Vis-Dunbar, M. (2026). Concise guidelines for producing reliable,
-reproducible research. CC BY-NC-SA 4.0.
+reproducible research. CC BY-NC 4.0.
