@@ -4,7 +4,7 @@ An R package providing two checklists for reliable research practices in both R 
 
 These checklists are designed to complement the following guidelines document (preprint available [here](https://pitherj.github.io/example_reproducible_workflow/more/Pither_Vis-Dunbar_concise_guidelines_preprint.pdf)):  
 
-Pither, J. and Vis-Dunbar, M. (2026). Concise guidelines and complementary checklists for improving research reliability and reproducibility. CC BY-NC-SA 4.0.
+Pither, J. and Vis-Dunbar, M. (2026). Concise guidelines and complementary checklists for improving research reliability and reproducibility. CC BY-NC 4.0.
 
 You are welcome to clone this GitHub repo in order to tailor the checklists to your own needs. If you do, please cite both the guidelines document and this R package:
 
@@ -12,7 +12,7 @@ Pither, J., Vis-Dunbar, M. 2026. rrchecklist: an R package providing markdown te
 
 Based on:
 
-Pither, J. and Vis-Dunbar, M. (2026). Concise guidelines for producing reliable, reproducible research. CC BY-NC-SA 4.0.
+Pither, J. and Vis-Dunbar, M. (2026). Concise guidelines for producing reliable, reproducible research. CC BY-NC 4.0.
 
 
 ## Maintenance status
@@ -41,7 +41,7 @@ A checklist for conducting your own research. Use when:
 - Demonstrating compliance with funding requirements
 - Training in research methods
 
-Covers: planning, conducting, reporting/interpreting, and enhancing transparency following best practices for reproducibility.
+Covers: evaluating existing research, planning, conducting, reporting/interpreting, and enhancing transparency following best practices for reproducibility.
 
 ## Installation
 
@@ -196,7 +196,7 @@ Pither, J., Vis-Dunbar, M. 2026. rrchecklist: an R package providing markdown te
 
 Based on:
 
-Pither, J. and Vis-Dunbar, M. (2026). Concise guidelines for producing reliable, reproducible research. CC BY-NC-SA 4.0.
+Pither, J. and Vis-Dunbar, M. (2026). Concise guidelines for producing reliable, reproducible research. CC BY-NC 4.0.
 
 ## Authors
 
