@@ -6,7 +6,7 @@
 Reliable Research Checklists
 }
 \description{
-Provides two R Markdown templates for reliable research practices: evaluating primary research and documenting reliable research practices. Templates support both PDF and HTML output formats.
+Provides two checklists for reliable research practices — evaluating primary research and documenting your own research practices — as R Markdown and Quarto templates. Templates support both PDF and HTML output formats.
 }
 \details{
 The rrchecklist package includes two comprehensive checklists as R Markdown templates:
@@ -46,7 +46,7 @@ Mathew Vis-Dunbar
 Maintainer: Jason Pither <pitherj@gmail.com>
 }
 \references{
-Pither, J. and Vis-Dunbar, M. (2026). Concise guidelines for producing reliable, reproducible research. CC BY-NC-SA 4.0.
+Pither, J. and Vis-Dunbar, M. (2026). Concise guidelines for producing reliable, reproducible research. CC BY-NC 4.0.
 }
 \keyword{package}
 \seealso{

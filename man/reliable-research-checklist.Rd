@@ -5,15 +5,17 @@
 An R Markdown template for documenting adherence to reliable research practices throughout a research project. This comprehensive checklist covers all stages from planning through dissemination and can be submitted as supplementary material with manuscripts.
 }
 \details{
-The template provides a comprehensive checklist organized into four main sections:
+The template provides a comprehensive checklist organized into five main sections:
 
-\strong{A. Planning Your Research} - Covers study rationale and design, research partnerships, pre-registration, data management planning, and peer review of research plans.
+\strong{A. Evaluating Existing Research} - Guidance on critically evaluating the existing literature before planning your own research, including distinguishing exploratory from confirmatory research and considering systematic reviews.
 
-\strong{B. Conducting Your Research} - Focuses on documentation, transparency, and adherence to planned protocols during data collection and analysis.
+\strong{B. Planning Your Research} - Covers study rationale and design, research partnerships, pre-registration, data management planning, and peer review of research plans.
 
-\strong{C. Reporting, Interpreting, and Communicating} - Addresses transparent reporting of methods and results, objective interpretation, appropriate statistical practices, and acknowledgment of contributions.
+\strong{C. Conducting Your Research} - Focuses on documentation, transparency, data quality control, and adherence to planned protocols during data collection and analysis.
 
-\strong{D. Enhancing Transparency, Replicability, Discoverability, and Impact} - Covers data and code sharing following FAIR and CARE principles, open access publishing, and effective dissemination.
+\strong{D. Reporting, Interpreting, and Communicating} - Addresses transparent reporting of methods and results, objective interpretation, appropriate statistical practices, and acknowledgment of contributions.
+
+\strong{E. Enhancing Replicability, Discoverability, Accessibility, and Reach} - Covers data and code sharing following FAIR and CARE principles, open access publishing, and effective dissemination.
 
 \strong{Use Cases:}
 \itemize{
@@ -47,7 +49,7 @@ rmarkdown::draft("my_reliable-research-checklist.Rmd",
 }
 }
 \references{
-Pither, J. and Vis-Dunbar, M. (2026). Concise guidelines for producing reliable, reproducible research. CC BY-NC-SA 4.0.
+Pither, J. and Vis-Dunbar, M. (2026). Concise guidelines for producing reliable, reproducible research. CC BY-NC 4.0.
 }
 \seealso{
 \code{\link{evaluating-primary-research-checklist}}

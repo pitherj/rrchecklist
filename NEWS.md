@@ -1,3 +1,72 @@
+# rrchecklist 0.3.0
+
+## Checklist updates aligned with revised guidelines (2026-05-28)
+
+* Updated license reference throughout: CC BY-NC-SA 4.0 → CC BY-NC 4.0
+
+### Reliable Research Practices checklist
+
+* Added new Section A (Evaluating Existing Research); former sections A–D
+  renumbered to B–E to match the updated guidelines document structure
+* Section B (Planning): reordered items for improved logical flow; study design
+  type now follows directly after ER/CR specification; target population, scope
+  of inference, and units of observation moved after design-specific items;
+  "Identify those who could be impacted" moved to end of section
+* Section B (Planning): "Articulate research questions" item simplified (ER/CR
+  labels removed; handled by the dedicated ER/CR specification item)
+* Section B (Planning): "Define units of observation" expanded to
+  "…and/or experimental units"; "document" → "detail" for data re-use item
+* Section B (Planning): added "Choose statistical methods best suited…" item;
+  added "Describe study materials and procedures in detail" item;
+  added "Plan to use version-controlled reporting systems if possible"
+* Section B (Planning): added "Especially when power is limited…" item;
+  added "Define meaningful effect size" item (confirmatory); added Dragon Kill
+  Points to contribution-tracking frameworks; added peer community item
+* Section C (Conducting): added "Regularly maintain data and undertake
+  quality control" item
+* Section D (Reporting): removed three items relocated to Interpretation
+  (absence of evidence, statistical vs. biological significance, causation
+  language); updated unplanned analyses item to "statistical meaning"
+* Section D (Interpretation): full reorder to match evaluating checklist flow;
+  absorbed three items from Reporting; merged scientific significance and
+  practical relevance items; "Reference both supportive…" reworded to
+  "Discuss findings relative to both supportive and contrary findings within
+  the literature"; added "Evaluate draft manuscript against Section A criteria"
+* Section D (Additional Reporting): "Encourage all contributors to acquire an
+  ORCID" → "ORCIDs are reported for all co-authors"
+* Section E (Data Sharing): added "or applicable data access and sharing
+  agreements" (FAIR) and "or applicable data sovereignty agreements" (CARE);
+  added "shared to facilitate independent replication"
+* Section E (Publication): removed infographic item; updated keywords item
+
+### Evaluating Primary Research checklist
+
+* Added "Specifies whether study is ER, CR, or both" item to Study Rationale
+* Added "Defines meaningful effect size" item (confirmatory) to Study Rationale
+* Added "Describes study materials and procedures in detail" item
+* Reporting: "shows individual data points in figures" → "…where feasible";
+  removed false-positive-rates parenthetical from unplanned analyses item;
+  "Absence of evidence" item moved to Interpretation section;
+  added "Statistical significance is not equated with biological relevance"
+* Interpretation: full reorder; absorbed "Absence of evidence" from Reporting;
+  added real-world effect size, objective interpretation, causation language,
+  and persuasive language items; merged scientific/practical relevance items;
+  reworded supportive/contrary literature item
+* Warning signs: "Is clearly exploratory but emphasizes P-values" broadened to
+  "Emphasizes statistical over biological significance, or P-values over effect
+  sizes"; added "not reproducible" to unplanned analyses warning; added
+  "Does not provide access to data according to FAIR principles…"
+
+### Package metadata
+
+* Version bumped to 0.3.0
+* DESCRIPTION: updated description to mention evaluating existing research
+  and replicability/reach
+* README: updated section descriptions and license reference
+* man/reliable-research-checklist.Rd: updated section list from four to five
+  sections with correct letters and titles
+* man/rrchecklist-package.Rd: updated description to mention Quarto templates
+
 # rrchecklist 0.2.0
 
 ## Initial public deployment
