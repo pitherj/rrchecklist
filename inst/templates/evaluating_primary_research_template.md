@@ -58,6 +58,8 @@ evaluation and identify strengths or concerns.
 
 - [ ] If experimental, study describes and rationalizes all interventions/treatments
 
+- [ ] Describes study materials and procedures in detail
+
 - [ ] If confirmatory, study appropriately considers P-value adjustments for multiple
   testing where appropriate
 
@@ -91,19 +93,15 @@ evaluation and identify strengths or concerns.
 - [ ] Prioritizes reporting and interpreting effect sizes with uncertainty measures
   (e.g., confidence intervals)
 
-- [ ] Reveals rather than conceals data (e.g., shows individual data points in figures)
+- [ ] Reveals rather than conceals data (e.g., shows individual data points in figures where feasible)
 
 - [ ] Uses accessible visualizations (e.g., accessible colour palettes in figures)
 
 - [ ] Reports findings of all planned analyses
 
-- [ ] If included, all unplanned analyses and associated results are clearly labelled as
-  such (unplanned analyses tend to yield inflated false positive rates)
+- [ ] If included, all unplanned analyses and associated results are clearly labelled as such
 
 - [ ] Consistently reports sample sizes for all analyses and figures
-
-- [ ] Absence of evidence (i.e. a statistically non-significant result) is not presented
-  as evidence of absence
 
 - [ ] Statistical significance is not equated with biological relevance
 
@@ -132,17 +130,7 @@ evaluation and identify strengths or concerns.
 
 ## Interpretation and Context
 
-- [ ] Articulates scientific significance of each finding
-
-- [ ] Where appropriate, articulates practical relevance to all stakeholders
-
-- [ ] Discusses real-world relevance of effect sizes
-
 - [ ] Interprets findings objectively
-
-- [ ] References both supportive and contrary findings
-
-- [ ] Discusses study limitations
 
 - [ ] If observational or quasi-experimental, study acknowledges limits to causal
   inference
@@ -150,7 +138,20 @@ evaluation and identify strengths or concerns.
 - [ ] Does not imply causation without appropriate justification (e.g., uses 'is
   associated with' rather than 'causes' or 'affects' for observational research)
 
+- [ ] Absence of evidence (i.e. a statistically non-significant result) is not presented
+  as evidence of absence
+
 - [ ] Discusses alternative interpretations of findings
+
+- [ ] Discusses real-world relevance of effect sizes
+
+- [ ] Articulates scientific relevance of each finding and, where appropriate, practical
+  relevance to all stakeholders
+
+- [ ] Discusses findings relative to both supportive and contrary findings within the
+  literature
+
+- [ ] Discusses study limitations
 
 - [ ] Avoids persuasive language
 
@@ -211,6 +212,9 @@ but warrant closer scrutiny and should be noted in your evaluation._
 
 - [ ] Presents a pilot study as confirmatory research without acknowledging its
   exploratory elements or deviations from intended design
+
+- [ ] Does not provide access to data according to FAIR principles and to facilitate
+  independent replication
 
 **Notes:**
 

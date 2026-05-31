@@ -51,22 +51,12 @@ beneath relevant sections to provide evidence for peer review.
 
 - [ ] Objectively establish the state of knowledge through unbiased literature assessment
 
-- [ ] Articulate research questions (exploratory) and/or hypotheses (confirmatory)
+- [ ] Articulate research questions and/or hypotheses
 
 - [ ] Specify whether study is exploratory (ER), confirmatory (CR), or includes both,
   and provide rationale(s)
 
 - [ ] Articulate how each question/hypothesis will be evaluated
-
-- [ ] Define target population(s)
-
-- [ ] Define scope of inference
-
-- [ ] Define units of observation
-
-- [ ] Identify those who could be impacted by the research (if applicable)
-
-- [ ] If applicable, document any re-use/overlap of data from previous/ongoing research
 
 - [ ] Specify whether study is experimental, quasi-experimental, or observational
   (units not randomly assigned to treatments = observational or quasi-experimental)
@@ -80,9 +70,19 @@ beneath relevant sections to provide evidence for peer review.
 - [ ] If observational or quasi-experimental, describe and rationalize all
   dependent and independent variables
 
-- [ ] Describe and rationalize structure of statistical model for each planned analysis
+- [ ] Define target population(s)
+
+- [ ] Define scope of inference
+
+- [ ] Define units of observation and/or experimental units
+
+- [ ] If applicable, detail any re-use/overlap of data from previous/ongoing research
+
+- [ ] Describe study materials and procedures in detail
 
 - [ ] Choose statistical methods best suited to addressing the question(s)/hypotheses
+
+- [ ] Describe and rationalize structure of statistical model for each planned analysis
 
 - [ ] Specify how statistical model assumptions will be checked and violations dealt with
 
@@ -107,6 +107,8 @@ beneath relevant sections to provide evidence for peer review.
 
 - [ ] Consider sensitivity ("multiverse") analysis to evaluate robustness of findings to
   alternative data pre-processing and/or analysis methods
+
+- [ ] Identify those who could be impacted by the research (if applicable)
 
 - [ ] Articulate ethical considerations where appropriate
 
@@ -146,7 +148,7 @@ beneath relevant sections to provide evidence for peer review.
 - [ ] Create a data management plan (DMP), ensuring adherence to community-specific
   engagement protocols, data sovereignty policies, and FAIR and CARE guidelines
 
-- [ ] Consider using transparent/open, version-controlled reporting systems
+- [ ] Plan to use version-controlled reporting systems if possible
 
 **Notes:**
 
@@ -179,6 +181,8 @@ beneath relevant sections to provide evidence for peer review.
 
 - [ ] Document data exclusions with justification
 
+- [ ] Regularly maintain data and undertake quality control
+
 **Notes:**
 
 &nbsp;
@@ -196,7 +200,7 @@ beneath relevant sections to provide evidence for peer review.
 - [ ] Distinguish exploratory from confirmatory analyses
 
 - [ ] Clearly label any unplanned analyses as such; only planned analyses retain their
-  intended statistical relevance
+  intended statistical meaning
 
 - [ ] Report results of checks on model assumptions and remedies to violations
 
@@ -208,14 +212,6 @@ beneath relevant sections to provide evidence for peer review.
 - [ ] If confirmatory, report adjusted P-values for multiple testing (where appropriate)
 
 - [ ] If exploratory, report effect sizes (with confidence intervals)
-
-- [ ] Absence of evidence (i.e. a statistically non-significant result) is not necessarily
-  evidence of absence
-
-- [ ] Statistical significance does not necessarily imply biological relevance
-
-- [ ] Do not imply causation without appropriate justification; consider 'is associated with'
-  rather than 'causes' or 'affects' for non-experimental results
 
 - [ ] Include figures that reveal rather than conceal data
 
@@ -233,22 +229,26 @@ beneath relevant sections to provide evidence for peer review.
 
 ## Interpretation and Context
 
-- [ ] Articulate scientific significance of each finding
+- [ ] Interpret findings objectively
 
-- [ ] Where appropriate, articulate practical relevance to all stakeholders
+- [ ] If observational or quasi-experimental, acknowledge limits to causal inference
+
+- [ ] Do not imply causation without appropriate justification; consider 'is associated with'
+  rather than 'causes' or 'affects' for non-experimental results
+
+- [ ] Absence of evidence (i.e. a statistically non-significant result) is not necessarily
+  evidence of absence
+
+- [ ] Discuss alternative interpretations of findings
 
 - [ ] Discuss real-world relevance of effect sizes
 
-- [ ] Interpret findings objectively
+- [ ] Articulate scientific significance of each finding and, where appropriate, practical
+  relevance to all stakeholders
 
-- [ ] Reference both supportive and contrary findings
+- [ ] Discuss findings relative to both supportive and contrary findings within the literature
 
 - [ ] Discuss study limitations
-
-- [ ] If observational or quasi-experimental, acknowledge limits to causal
-  inference
-
-- [ ] Discuss alternative interpretations of findings
 
 - [ ] Avoid persuasive language
 
@@ -271,7 +271,7 @@ beneath relevant sections to provide evidence for peer review.
 - [ ] Describe each author's roles in the research using Dragon Kill Points, CRediT,
   or MeRIT
 
-- [ ] Encourage all contributors to acquire an ORCID
+- [ ] ORCIDs are reported for all co-authors
 
 - [ ] Acknowledge any conflicts of interest
 
@@ -292,10 +292,10 @@ beneath relevant sections to provide evidence for peer review.
 ## Data and Code Sharing
 
 - [ ] Ensure data are as open as possible and as closed as necessary according to
-  FAIR principles
+  FAIR principles or applicable data access and sharing agreements
 
 - [ ] Where relevant, ensure data are as open as possible and as closed as necessary
-  according to CARE principles
+  according to CARE principles or applicable data sovereignty agreements
 
 - [ ] Archive data in an appropriate repository with detailed metadata, shared to
   facilitate independent replication
