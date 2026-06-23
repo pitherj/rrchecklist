@@ -17,7 +17,7 @@ date: "[Date]"
 ---
 
 **Instructions:** Check off items as you complete them throughout your research project.
-Optionally, add notes or links to documentation (e.g., pre-registration URLs, repository links)
+Optionally, add notes or links to documentation (e.g., preregistration URLs, repository links)
 beneath relevant sections to provide evidence for peer review.
 
 ---
@@ -140,12 +140,12 @@ beneath relevant sections to provide evidence for peer review.
 
 ---
 
-## Pre-registration, Workflow Transparency, and Data Management
+## Preregistration, Workflow Transparency, and Data Management
 
-- [ ] Pre-register study design and analysis plan in a public repository
+- [ ] Preregister study design and analysis plan in a public repository
   (embargo if necessary)
 
-- [ ] Create a data management plan (DMP), ensuring adherence to community-specific
+- [ ] Create a data management plan, ensuring adherence to community-specific
   engagement protocols, data sovereignty policies, and FAIR and CARE guidelines
 
 - [ ] Plan to use version-controlled reporting systems if possible
@@ -174,7 +174,7 @@ beneath relevant sections to provide evidence for peer review.
 
 ## Documentation and Transparency
 
-- [ ] Document data and procedures as per planned protocols and DMP
+- [ ] Document data and procedures as per planned protocols and data management plan
 
 - [ ] Document deviations from planned protocols (e.g., loss of samples,
   measurement mistakes)
@@ -325,7 +325,7 @@ beneath relevant sections to provide evidence for peer review.
 # Documentation & Evidence
 
 Use this section to provide links and evidence for checklist items (e.g.,
-pre-registration URLs, data repository links, ethics approval numbers).
+preregistration URLs, data repository links, ethics approval numbers).
 
 &nbsp;
 

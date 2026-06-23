@@ -39,7 +39,7 @@ ul li input[type="checkbox"] { margin-right: 0.4em; }
 
 ---
 
-**Instructions:** Check off items as you complete them throughout your research project. Optionally, add notes or links to documentation (e.g., pre-registration URLs, repository links) beneath relevant sections to provide evidence for peer review.
+**Instructions:** Check off items as you complete them throughout your research project. Optionally, add notes or links to documentation (e.g., preregistration URLs, repository links) beneath relevant sections to provide evidence for peer review.
 
 ---
 
@@ -145,11 +145,11 @@ ul li input[type="checkbox"] { margin-right: 0.4em; }
 
 \vspace{1cm}
 
-## Pre-registration, Workflow Transparency, and Data Management
+## Preregistration, Workflow Transparency, and Data Management
 
-- [ ] Pre-register study design and analysis plan in a public repository (embargo if necessary)
+- [ ] Preregister study design and analysis plan in a public repository (embargo if necessary)
 
-- [ ] Create a data management plan (DMP), ensuring adherence to community-specific engagement protocols, data sovereignty policies, and FAIR and CARE guidelines
+- [ ] Create a data management plan, ensuring adherence to community-specific engagement protocols, data sovereignty policies, and FAIR and CARE guidelines
 
 - [ ] Plan to use version-controlled reporting systems if possible
 
@@ -177,7 +177,7 @@ ul li input[type="checkbox"] { margin-right: 0.4em; }
 
 ## Documentation and Transparency
 
-- [ ] Document data and procedures as per planned protocols and DMP
+- [ ] Document data and procedures as per planned protocols and data management plan
 
 - [ ] Document deviations from planned protocols (e.g., loss of samples, measurement mistakes)
 
@@ -317,7 +317,7 @@ ul li input[type="checkbox"] { margin-right: 0.4em; }
 
 # Documentation & Evidence
 
-Use this section to provide links and evidence for checklist items (e.g., pre-registration URLs, data repository links, ethics approval numbers).
+Use this section to provide links and evidence for checklist items (e.g., preregistration URLs, data repository links, ethics approval numbers).
 
 \vspace{5cm}
 
