@@ -5,6 +5,9 @@ on:
     - cron: "0 1 * * *" # Runs daily
   workflow_dispatch:
 
+permissions:
+  contents: write
+  
 jobs:
   generate-insights:
     runs-on: ubuntu-latest
