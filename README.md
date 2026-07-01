@@ -206,3 +206,7 @@ Pither, J. and Vis-Dunbar, M. (2026). Concise guidelines for producing reliable,
 ## Contributing
 
 This package is not actively maintained with a formal contribution process. The recommended approach is to clone the repository and adapt it to your own needs — the GPL-2 license permits this freely. If you have questions or feedback, open a GitHub issue or contact the authors directly. See [CONTRIBUTING.md](CONTRIBUTING.md) for details.
+
+## Tracking usage
+
+Check out the GitHub [Insights page](https://pitherj.github.io/rrchecklist/#/?id=pitherjrrchecklist) for this repository to see traffic.
