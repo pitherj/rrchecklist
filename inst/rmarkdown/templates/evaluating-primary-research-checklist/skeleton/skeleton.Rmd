@@ -117,7 +117,7 @@ ul li input[type="checkbox"] { margin-right: 0.4em; }
 
 - [ ] Consistently reports sample sizes for all analyses and figures
 
-- [ ] Statistical significance is not equated with biological relevance
+- [ ] Statistical significance is not equated with scientific relevance
 
 - [ ] Provides access to data according to FAIR principles and to facilitate independent replication
 
@@ -199,7 +199,7 @@ _Flag any of the following if observed — these do not automatically invalidate
 
 - [ ] Uses sensationalist or emotive language
 
-- [ ] Emphasizes statistical over biological significance, or P-values over effect sizes
+- [ ] Emphasizes statistical over scientific significance, or P-values over effect sizes
 
 - [ ] Uses phrase "marginally significant"
 

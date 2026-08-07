@@ -103,7 +103,7 @@ evaluation and identify strengths or concerns.
 
 - [ ] Consistently reports sample sizes for all analyses and figures
 
-- [ ] Statistical significance is not equated with biological relevance
+- [ ] Statistical significance is not equated with scientific relevance
 
 - [ ] Provides access to data according to FAIR principles and to facilitate independent
   replication
@@ -192,7 +192,7 @@ but warrant closer scrutiny and should be noted in your evaluation._
 
 - [ ] Uses sensationalist or emotive language
 
-- [ ] Emphasizes statistical over biological significance, or P-values over effect sizes
+- [ ] Emphasizes statistical over scientific significance, or P-values over effect sizes
 
 - [ ] Uses phrase "marginally significant"
 
