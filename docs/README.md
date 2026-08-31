@@ -30,7 +30,7 @@
   "title": "Top 10 Repositories by Git Clones",
   "data": {
     "values": [
-      {"repository": "rrchecklist", "clones": 325}
+      {"repository": "rrchecklist", "clones": 332}
     ]
   },
   "mark": "bar",
@@ -120,6 +120,14 @@
       {"date": "2026-08-20", "type": "Total Views", "value": 0},
       {"date": "2026-08-21", "type": "Total Views", "value": 0},
       {"date": "2026-08-22", "type": "Total Views", "value": 0},
+      {"date": "2026-08-23", "type": "Total Views", "value": 0},
+      {"date": "2026-08-24", "type": "Total Views", "value": 0},
+      {"date": "2026-08-25", "type": "Total Views", "value": 0},
+      {"date": "2026-08-26", "type": "Total Views", "value": 0},
+      {"date": "2026-08-27", "type": "Total Views", "value": 0},
+      {"date": "2026-08-28", "type": "Total Views", "value": 0},
+      {"date": "2026-08-29", "type": "Total Views", "value": 0},
+      {"date": "2026-08-30", "type": "Total Views", "value": 0},
       {"date": "2026-06-16", "type": "Unique Views", "value": 0},
       {"date": "2026-06-17", "type": "Unique Views", "value": 0},
       {"date": "2026-06-18", "type": "Unique Views", "value": 0},
@@ -187,7 +195,15 @@
       {"date": "2026-08-19", "type": "Unique Views", "value": 0},
       {"date": "2026-08-20", "type": "Unique Views", "value": 0},
       {"date": "2026-08-21", "type": "Unique Views", "value": 0},
-      {"date": "2026-08-22", "type": "Unique Views", "value": 0}
+      {"date": "2026-08-22", "type": "Unique Views", "value": 0},
+      {"date": "2026-08-23", "type": "Unique Views", "value": 0},
+      {"date": "2026-08-24", "type": "Unique Views", "value": 0},
+      {"date": "2026-08-25", "type": "Unique Views", "value": 0},
+      {"date": "2026-08-26", "type": "Unique Views", "value": 0},
+      {"date": "2026-08-27", "type": "Unique Views", "value": 0},
+      {"date": "2026-08-28", "type": "Unique Views", "value": 0},
+      {"date": "2026-08-29", "type": "Unique Views", "value": 0},
+      {"date": "2026-08-30", "type": "Unique Views", "value": 0}
     ]
   },
   "mark": "line",
@@ -297,6 +313,14 @@
       {"date": "2026-08-20", "type": "Total Clones", "value": 1},
       {"date": "2026-08-21", "type": "Total Clones", "value": 0},
       {"date": "2026-08-22", "type": "Total Clones", "value": 0},
+      {"date": "2026-08-23", "type": "Total Clones", "value": 0},
+      {"date": "2026-08-24", "type": "Total Clones", "value": 3},
+      {"date": "2026-08-25", "type": "Total Clones", "value": 0},
+      {"date": "2026-08-26", "type": "Total Clones", "value": 0},
+      {"date": "2026-08-27", "type": "Total Clones", "value": 0},
+      {"date": "2026-08-28", "type": "Total Clones", "value": 0},
+      {"date": "2026-08-29", "type": "Total Clones", "value": 2},
+      {"date": "2026-08-30", "type": "Total Clones", "value": 2},
       {"date": "2026-06-16", "type": "Unique Clones", "value": 1},
       {"date": "2026-06-17", "type": "Unique Clones", "value": 2},
       {"date": "2026-06-18", "type": "Unique Clones", "value": 1},
@@ -364,7 +388,15 @@
       {"date": "2026-08-19", "type": "Unique Clones", "value": 2},
       {"date": "2026-08-20", "type": "Unique Clones", "value": 1},
       {"date": "2026-08-21", "type": "Unique Clones", "value": 0},
-      {"date": "2026-08-22", "type": "Unique Clones", "value": 0}
+      {"date": "2026-08-22", "type": "Unique Clones", "value": 0},
+      {"date": "2026-08-23", "type": "Unique Clones", "value": 0},
+      {"date": "2026-08-24", "type": "Unique Clones", "value": 2},
+      {"date": "2026-08-25", "type": "Unique Clones", "value": 0},
+      {"date": "2026-08-26", "type": "Unique Clones", "value": 0},
+      {"date": "2026-08-27", "type": "Unique Clones", "value": 0},
+      {"date": "2026-08-28", "type": "Unique Clones", "value": 0},
+      {"date": "2026-08-29", "type": "Unique Clones", "value": 2},
+      {"date": "2026-08-30", "type": "Unique Clones", "value": 1}
     ]
   },
   "mark": "line",
